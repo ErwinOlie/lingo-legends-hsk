@@ -1,0 +1,151 @@
+Topic (Required),Topic Description (Optional),"Topic Type (Optional: 0=vocab,1=grammar,2=phrases,3=script,4=misc)",Native Text (Required),Native Context Line (Optional),Translation Text (Required),Translation Context Line (Optional),Translation Hint (Optional),Pronunciation Override (Optional)
+vocab,,0,爱,,to love,,,ài
+vocab,,0,八,,eight,,,bā
+vocab,,0,爸爸,,(informal) father,,,bà ba
+vocab,,0,杯子,,cup,,,bēi zi
+vocab,,0,北京,,Beijing,,,Běi jīng
+vocab,,0,本,,roots or stems of plants,,,běn
+vocab,,0,不客气,,you're welcome,,,bù kè qi
+vocab,,0,不,,(negative prefix),,,bù
+vocab,,0,菜,,dish (type of food),,,cài
+vocab,,0,茶,,tea,,,chá
+vocab,,0,吃,,to eat,,,chī
+vocab,,0,出租车,,taxi,,,chū zū chē
+vocab,,0,打电话,,to make a telephone call,,,dǎ diàn huà
+vocab,,0,大,,big,,,dà
+vocab,,0,的,,of,,,de
+vocab,,0,点,,point,,,diǎn
+vocab,,0,电脑,,computer,,,diàn nǎo
+vocab,,0,电视,,television,,,diàn shì
+vocab,,0,电影,,movie,,,diàn yǐng
+vocab,,0,东西,,thing,,,dōng xi
+vocab,,0,都,,all,,,dōu
+vocab,,0,读,,to read,,,dú
+vocab,,0,对不起,,unworthy,,,duì bu qǐ
+vocab,,0,多,,many,,,duō
+vocab,,0,多少,,how much,,,duō shao
+vocab,,0,儿子,,son,,,ér zi
+vocab,,0,二,,two,,,èr
+vocab,,0,饭馆,,restaurant,,,fàn guǎn
+vocab,,0,飞机,,airplane,,,fēi jī
+vocab,,0,分钟,,minute,,,fēn zhōng
+vocab,,0,高兴,,happy,,,gāo xìng
+vocab,,0,个,,variant of 個|个[gè],,,gè
+vocab,,0,工作,,to work,,,gōng zuò
+vocab,,0,狗,,dog,,,gǒu
+vocab,,0,汉语,,Chinese language,,,Hàn yǔ
+vocab,,0,好,,good,,,hǎo
+vocab,,0,喝,,to drink,,,hē
+vocab,,0,和,,and,,,hé
+vocab,,0,很,,(adverb of degree),,,hěn
+vocab,,0,后面,,rear,,,hòu mian
+vocab,,0,回,,to curve,,,huí
+vocab,,0,会,,can,,,huì
+vocab,,0,火车站,,train station,,,huǒ chē zhàn
+vocab,,0,几,,how much,,,jǐ
+vocab,,0,家,,home,,,jiā
+vocab,,0,叫,,to shout,,,jiào
+vocab,,0,今天,,today,,,jīn tiān
+vocab,,0,九,,nine,,,jiǔ
+vocab,,0,开,,to open,,,kāi
+vocab,,0,看,,to see,,,kàn
+vocab,,0,看见,,to see,,,kàn jiàn
+vocab,,0,块,,lump (of earth),,,kuài
+vocab,,0,来,,to come,,,lái
+vocab,,0,老师,,teacher,,,lǎo shī
+vocab,,0,了,,(modal particle intensifying preceding clause),,,le
+vocab,,0,冷,,cold,,,lěng
+vocab,,0,里,,li (Chinese mile),,,lǐ
+vocab,,0,零,,zero,,,líng
+vocab,,0,六,,six,,,liù
+vocab,,0,妈妈,,mama,,,mā ma
+vocab,,0,吗,,(question tag),,,ma
+vocab,,0,买,,to buy,,,mǎi
+vocab,,0,猫,,cat,,,māo
+vocab,,0,没,,(negative prefix for verbs),,,méi
+vocab,,0,没关系,,it doesn't matter,,,méi guān xi
+vocab,,0,米饭,,(cooked) rice,,,mǐ fàn
+vocab,,0,明天,,tomorrow,,,míng tiān
+vocab,,0,名字,,name (of a person or thing),,,míng zi
+vocab,,0,哪,,how,,,nǎ
+vocab,,0,那,,that,,,nà
+vocab,,0,呢,,What about ...?,,,ne
+vocab,,0,能,,to be able to,,,néng
+vocab,,0,你,,you (informal,,,nǐ
+vocab,,0,年,,year,,,nián
+vocab,,0,女儿,,daughter,,,nǚ ér
+vocab,,0,朋友,,friend,,,péng you
+vocab,,0,漂亮,,pretty,,,piào liang
+vocab,,0,苹果,,apple,,,píng guǒ
+vocab,,0,七,,seven,,,qī
+vocab,,0,钱,,coin,,,qián
+vocab,,0,前面,,ahead,,,qián miàn
+vocab,,0,请,,to ask,,,qǐng
+vocab,,0,去,,to go,,,qù
+vocab,,0,热,,to warm up,,,rè
+vocab,,0,人,,man,,,rén
+vocab,,0,认识,,to know,,,rèn shi
+vocab,,0,日,,sun,,,rì
+vocab,,0,三,,three,,,sān
+vocab,,0,商店,,store,,,shāng diàn
+vocab,,0,上,,on top,,,shàng
+vocab,,0,上午,,morning,,,shàng wǔ
+vocab,,0,少,,few,,,shǎo
+vocab,,0,谁,,who,,,shéi
+vocab,,0,什么,,what?,,,shén me
+vocab,,0,十,,ten,,,shí
+vocab,,0,时候,,time,,,shí hou
+vocab,,0,是,,is,,,shì
+vocab,,0,书,,book,,,shū
+vocab,,0,水,,water,,,shuǐ
+vocab,,0,水果,,fruit,,,shuǐ guǒ
+vocab,,0,睡觉,,to go to bed,,,shuì jiào
+vocab,,0,说话,,to speak,,,shuō huà
+vocab,,0,四,,four,,,sì
+vocab,,0,岁,,classifier for years (of age),,,suì
+vocab,,0,他,,he or him,,,tā
+vocab,,0,她,,she,,,tā
+vocab,,0,太,,highest,,,tài
+vocab,,0,天气,,weather,,,tiān qì
+vocab,,0,听,,to listen,,,tīng
+vocab,,0,同学,,to study at the same school,,,tóng xué
+vocab,,0,喂,,to feed,,,wèi
+vocab,,0,我,,I,,,wǒ
+vocab,,0,我们,,we,,,wǒ men
+vocab,,0,五,,five,,,wǔ
+vocab,,0,喜欢,,to like,,,xǐ huan
+vocab,,0,下,,down,,,xià
+vocab,,0,下午,,afternoon,,,xià wǔ
+vocab,,0,下雨,,to rain,,,xià yǔ
+vocab,,0,先生,,teacher,,,xiān sheng
+vocab,,0,现在,,now,,,xiàn zài
+vocab,,0,想,,to think,,,xiǎng
+vocab,,0,小,,small,,,xiǎo
+vocab,,0,小姐,,young lady,,,xiǎo jie
+vocab,,0,些,,some,,,xiē
+vocab,,0,写,,to write,,,xiě
+vocab,,0,谢谢,,to thank,,,xiè xie
+vocab,,0,星期,,week,,,xīng qī
+vocab,,0,学生,,student,,,xué sheng
+vocab,,0,学习,,to learn,,,xué xí
+vocab,,0,学校,,school,,,xué xiào
+vocab,,0,一,,one,,,yī
+vocab,,0,衣服,,clothes,,,yī fu
+vocab,,0,医生,,doctor,,,yī shēng
+vocab,,0,医院,,hospital,,,yī yuàn
+vocab,,0,椅子,,chair,,,yǐ zi
+vocab,,0,有,,to have,,,yǒu
+vocab,,0,月,,moon,,,yuè
+vocab,,0,在,,(located) at,,,zài
+vocab,,0,再见,,goodbye,,,zài jiàn
+vocab,,0,怎么,,how?,,,zěn me
+vocab,,0,怎么样,,how about?,,,zěn me yàng
+vocab,,0,这,,this,,,zhè
+vocab,,0,中国,,China,,,Zhōng guó
+vocab,,0,中午,,noon,,,zhōng wǔ
+vocab,,0,住,,to live,,,zhù
+vocab,,0,桌子,,table,,,zhuō zi
+vocab,,0,字,,letter,,,zì
+vocab,,0,昨天,,yesterday,,,zuó tiān
+vocab,,0,坐,,to sit,,,zuò
+vocab,,0,做,,to do,,,zuò
