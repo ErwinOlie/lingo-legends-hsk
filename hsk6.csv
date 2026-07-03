@@ -641,7 +641,7 @@ vocab,,0,杠杆,,lever,,,gàng gǎn
 vocab,,0,高超,,excellent,,,gāo chāo
 vocab,,0,高潮,,high tide,,,gāo cháo
 vocab,,0,高峰,,peak,,,gāo fēng
-vocab,,0,高考,,college entrance exam (abbr. for 普通高等學校招生全國統一考試|普通高等学校招生全国统一考试),,,gāo kǎo
+vocab,,0,高考,,college entrance exam,,,gāo kǎo
 vocab,,0,高明,,brilliant,,,gāo míng
 vocab,,0,高尚,,noble,,,gāo shàng
 vocab,,0,高涨,,upsurge,,,gāo zhǎng
@@ -793,7 +793,7 @@ vocab,,0,洪水,,deluge,,,hóng shuǐ
 vocab,,0,喉咙,,throat,,,hóu lóng
 vocab,,0,吼,,roar or howl of an animal,,,hǒu
 vocab,,0,后代,,posterity,,,hòu dài
-vocab,,0,后顾之忧,,fears of trouble in the rear (idiom); family worries (obstructing freedom of action),,,hòu gù zhī yōu
+vocab,,0,后顾之忧,,fears of trouble in the rear (idiom),,,hòu gù zhī yōu
 vocab,,0,后勤,,logistics,,,hòu qín
 vocab,,0,候选,,candidate,,,hòu xuǎn
 vocab,,0,忽略,,to neglect,,,hū lvè
@@ -805,7 +805,7 @@ vocab,,0,互联网,,the Internet,,,Hù lián wǎng
 vocab,,0,花瓣,,petal,,,huā bàn
 vocab,,0,华丽,,gorgeous,,,huá lì
 vocab,,0,华侨,,overseas Chinese,,,huá qiáo
-vocab,,0,画蛇添足,,lit. draw legs on a snake (idiom); fig. to ruin the effect by adding sth superfluous,,,huà shé tiān zú
+vocab,,0,画蛇添足,,lit. draw legs on a snake (idiom),,,huà shé tiān zú
 vocab,,0,化肥,,fertilizer,,,huà féi
 vocab,,0,化石,,fossil,,,huà shí
 vocab,,0,化验,,laboratory test,,,huà yàn
@@ -872,10 +872,10 @@ vocab,,0,级别,,(military) rank,,,jí bié
 vocab,,0,疾病,,disease,,,jí bìng
 vocab,,0,嫉妒,,to be jealous,,,jí dù
 vocab,,0,及早,,at the earliest possible time,,,jí zǎo
-vocab,,0,急功近利,,seeking instant benefit (idiom); shortsighted vision,,,jí gōng jìn lì
+vocab,,0,急功近利,,seeking instant benefit (idiom),,,jí gōng jìn lì
 vocab,,0,急剧,,rapid,,,jí jù
 vocab,,0,急切,,eager,,,jí qiè
-vocab,,0,急于求成,,anxious for quick results (idiom); to demand instant success,,,jí yú qiú chéng
+vocab,,0,急于求成,,anxious for quick results (idiom),,,jí yú qiú chéng
 vocab,,0,急躁,,irritable,,,jí zào
 vocab,,0,籍贯,,one's native place,,,jí guàn
 vocab,,0,集团,,group,,,jí tuán
@@ -883,7 +883,7 @@ vocab,,0,吉祥,,lucky,,,jí xiáng
 vocab,,0,给予,,to accord,,,jǐ yǔ
 vocab,,0,寄托,,to have sb look after sb,,,jì tuō
 vocab,,0,继承,,to inherit,,,jì chéng
-vocab,,0,继往开来,,to follow the past and herald the future (idiom); part of a historical transition,,,jì wǎng kāi lái
+vocab,,0,继往开来,,to follow the past and herald the future (idiom),,,jì wǎng kāi lái
 vocab,,0,记性,,memory,,,jì xìng
 vocab,,0,记载,,to write down,,,jì zǎi
 vocab,,0,季度,,quarter of a year,,,jì dù
@@ -1002,7 +1002,7 @@ vocab,,0,精密,,accuracy,,,jīng mì
 vocab,,0,精确,,accurate,,,jīng què
 vocab,,0,精通,,proficient,,,jīng tōng
 vocab,,0,精心,,with utmost care,,,jīng xīn
-vocab,,0,精益求精,,to perfect sth that is already outstanding (idiom); constantly improving,,,jīng yì qiú jīng
+vocab,,0,精益求精,,to perfect sth that is already outstanding (idiom),,,jīng yì qiú jīng
 vocab,,0,精致,,delicate,,,jīng zhì
 vocab,,0,经费,,funds,,,jīng fèi
 vocab,,0,经商,,to trade,,,jīng shāng
@@ -1038,7 +1038,7 @@ vocab,,0,局限,,to limit,,,jú xiàn
 vocab,,0,举动,,act,,,jǔ dòng
 vocab,,0,举世闻名,,(saying) world famous,,,jǔ shì wén míng
 vocab,,0,举世瞩目,,to receive worldwide attention,,,jǔ shì zhǔ mù
-vocab,,0,举足轻重,,a foot's move sways the balance (idiom); to hold the balance of power,,,jǔ zú qīng zhòng
+vocab,,0,举足轻重,,a foot's move sways the balance (idiom),,,jǔ zú qīng zhòng
 vocab,,0,咀嚼,,to chew,,,jǔ jué
 vocab,,0,沮丧,,dispirited,,,jǔ sàng
 vocab,,0,剧本,,script for play,,,jù běn
@@ -1145,8 +1145,8 @@ vocab,,0,黎明,,dawn,,,lí míng
 vocab,,0,里程碑,,milestone,,,lǐ chéng bēi
 vocab,,0,礼节,,etiquette,,,lǐ jié
 vocab,,0,理睬,,to heed,,,lǐ cǎi
-vocab,,0,理所当然,,as it should be by rights (idiom); proper and to be expected as a matter of course,,,lǐ suǒ dāng rán
-vocab,,0,理直气壮,,in the right and self-confident (idiom); bold and confident with justice on one's side,,,lǐ zhí qì zhuàng
+vocab,,0,理所当然,,as it should be by rights (idiom),,,lǐ suǒ dāng rán
+vocab,,0,理直气壮,,in the right and self-confident (idiom),,,lǐ zhí qì zhuàng
 vocab,,0,理智,,reason,,,lǐ zhì
 vocab,,0,立场,,position,,,lì chǎng
 vocab,,0,立交桥,,overpass,,,lì jiāo qiáo
@@ -1156,7 +1156,7 @@ vocab,,0,历代,,successive generations,,,lì dài
 vocab,,0,历来,,always,,,lì lái
 vocab,,0,利害,,pros and cons,,,lì hài
 vocab,,0,利率,,interest rates,,,lì lǜ
-vocab,,0,力所能及,,as far as one's capabilities extend (idiom); to the best of one's ability,,,lì suǒ néng jí
+vocab,,0,力所能及,,as far as one's capabilities extend (idiom),,,lì suǒ néng jí
 vocab,,0,力图,,to try hard to,,,lì tú
 vocab,,0,力争,,to work hard for,,,lì zhēng
 vocab,,0,例外,,(make an) exception,,,lì wài
@@ -1458,7 +1458,7 @@ vocab,,0,抢救,,rescue,,,qiǎng jiù
 vocab,,0,强迫,,to compel,,,qiǎng pò
 vocab,,0,桥梁,,bridge,,,qiáo liáng
 vocab,,0,翘,,to stick up,,,qiào
-vocab,,0,锲而不舍,,to chip away at a task and not abandon it (idiom); to chisel away at sth,,,qiè ér bù shě
+vocab,,0,锲而不舍,,to chip away at a task and not abandon it (idiom),,,qiè ér bù shě
 vocab,,0,切实,,feasible,,,qiè shí
 vocab,,0,亲热,,affectionate,,,qīn rè
 vocab,,0,亲身,,personal,,,qīn shēn
@@ -1904,7 +1904,7 @@ vocab,,0,无精打采,,dispirited and downcast (idiom); listless,,,wú jīng dǎ
 vocab,,0,无可奉告,,(idiom) 'no comment',,,wú kě fèng gào
 vocab,,0,无可奈何,,have no way out,,,wú kě nài hé
 vocab,,0,无赖,,hoodlum,,,wú lài
-vocab,,0,无理取闹,,to make trouble without reason (idiom); to be deliberately provocative,,,wú lǐ qǔ nào
+vocab,,0,无理取闹,,to make trouble without reason (idiom),,,wú lǐ qǔ nào
 vocab,,0,无能为力,,impotent (idiom),,,wú néng wéi lì
 vocab,,0,无穷无尽,,vast and limitless (idiom); endless span of time,,,wú qióng wú jìn
 vocab,,0,无微不至,,in every possible way (idiom); meticulous,,,wú wēi bù zhì
@@ -2322,7 +2322,7 @@ vocab,,0,震惊,,to shock,,,zhèn jīng
 vocab,,0,争端,,dispute,,,zhēng duān
 vocab,,0,争夺,,to fight over,,,zhēng duó
 vocab,,0,争气,,to work hard for sth,,,zhēng qì
-vocab,,0,争先恐后,,striving to be first and fearing to be last (idiom); outdoing one another,,,zhēng xiān kǒng hòu
+vocab,,0,争先恐后,,striving to be first and fearing to be last (idiom),,,zhēng xiān kǒng hòu
 vocab,,0,争议,,controversy,,,zhēng yì
 vocab,,0,蒸发,,to evaporate,,,zhēng fā
 vocab,,0,征服,,to conquer,,,zhēng fú
