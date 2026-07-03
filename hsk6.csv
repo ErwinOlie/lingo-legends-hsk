@@ -1,0 +1,2501 @@
+Topic (Required),Topic Description (Optional),"Topic Type (Optional: 0=vocab,1=grammar,2=phrases,3=script,4=misc)",Native Text (Required),Native Context Line (Optional),Translation Text (Required),Translation Context Line (Optional),Translation Hint (Optional),Pronunciation Override (Optional)
+vocab,,0,哎哟,,hey,,,āi yō
+vocab,,0,挨,,to suffer,,,ái
+vocab,,0,癌症,,cancer,,,ái zhèng
+vocab,,0,爱不释手,,to love sth too much to part with it (idiom),,,ài bù shì shǒu
+vocab,,0,爱戴,,to love and respect,,,ài dài
+vocab,,0,暧昧,,vague,,,ài mèi
+vocab,,0,安居乐业,,live in peace and work happily (idiom),,,ān jū lè yè
+vocab,,0,安宁,,peaceful,,,ān níng
+vocab,,0,安详,,serene,,,ān xiáng
+vocab,,0,安置,,to find a place for,,,ān zhì
+vocab,,0,暗示,,to hint,,,àn shì
+vocab,,0,案件,,law case,,,àn jiàn
+vocab,,0,案例,,case (law),,,àn lì
+vocab,,0,按摩,,massage,,,àn mó
+vocab,,0,昂贵,,expensive,,,áng guì
+vocab,,0,凹凸,,bumpy,,,āo tū
+vocab,,0,熬,,to cook on a slow fire,,,áo
+vocab,,0,奥秘,,secret,,,ào mì
+vocab,,0,扒,,to hold on to,,,bā
+vocab,,0,疤,,scar,,,bā
+vocab,,0,巴不得,,to be eager for,,,bā bù dé
+vocab,,0,巴结,,to fawn on,,,bā jie
+vocab,,0,拔苗助长,,to spoil things through excessive enthusiasm (idiom),,,bá miáo zhù zhǎng
+vocab,,0,把关,,to guard a pass,,,bǎ guān
+vocab,,0,把手,,handle,,,bǎ shǒu
+vocab,,0,把戏,,acrobatics,,,bǎ xì
+vocab,,0,霸道,,the Way of the Hegemon,,,bà dào
+vocab,,0,罢工,,a strike,,,bà gōng
+vocab,,0,掰,,to break with both hands,,,bāi
+vocab,,0,百分点,,percentage point,,,bǎi fēn diǎn
+vocab,,0,摆脱,,to break away from,,,bǎi tuō
+vocab,,0,拜访,,to pay a visit,,,bài fǎng
+vocab,,0,拜年,,pay a New Year call,,,bài nián
+vocab,,0,拜托,,to request sb to do sth,,,bài tuō
+vocab,,0,败坏,,to ruin,,,bài huài
+vocab,,0,颁布,,to issue,,,bān bù
+vocab,,0,颁发,,to issue,,,bān fā
+vocab,,0,斑纹,,stripe,,,bān wén
+vocab,,0,版本,,version,,,bǎn běn
+vocab,,0,半途而废,,to give up halfway (idiom); leave sth unfinished,,,bàn tú ér fèi
+vocab,,0,伴侣,,companion,,,bàn lǚ
+vocab,,0,伴随,,to accompany,,,bàn suí
+vocab,,0,扮演,,to play the role of,,,bàn yǎn
+vocab,,0,绑架,,to kidnap,,,bǎng jià
+vocab,,0,榜样,,example,,,bǎng yàng
+vocab,,0,磅,,see 磅秤 scale,,,bàng
+vocab,,0,包庇,,to shield,,,bāo bì
+vocab,,0,包袱,,cloth-wrapper,,,bāo fu
+vocab,,0,包围,,to surround,,,bāo wéi
+vocab,,0,包装,,to pack,,,bāo zhuāng
+vocab,,0,饱和,,saturation,,,bǎo hé
+vocab,,0,饱经沧桑,,having lived through many changes,,,bǎo jīng cāng sāng
+vocab,,0,保管,,to assure,,,bǎo guǎn
+vocab,,0,保密,,to keep sth confidential,,,bǎo mì
+vocab,,0,保姆,,nanny,,,bǎo mǔ
+vocab,,0,保守,,(politically) conservative,,,bǎo shǒu
+vocab,,0,保卫,,to defend,,,bǎo wèi
+vocab,,0,保养,,to take good care of (or conserve) one's health,,,bǎo yǎng
+vocab,,0,保障,,to ensure,,,bǎo zhàng
+vocab,,0,保重,,to take care of oneself,,,bǎo zhòng
+vocab,,0,抱负,,aspiration,,,bào fù
+vocab,,0,抱怨,,to complain,,,bào yuàn
+vocab,,0,报仇,,to take revenge,,,bào chóu
+vocab,,0,报酬,,reward,,,bào chóu
+vocab,,0,报答,,to repay,,,bào dá
+vocab,,0,报到,,to report for duty,,,bào dào
+vocab,,0,报复,,to make reprisals,,,bào fù
+vocab,,0,报社,,general office of a newspaper,,,bào shè
+vocab,,0,报销,,to submit an expense account,,,bào xiāo
+vocab,,0,爆发,,to break out,,,bào fā
+vocab,,0,爆炸,,explosion,,,bào zhà
+vocab,,0,曝光,,light meter,,,bào guāng
+vocab,,0,暴力,,violence,,,bào lì
+vocab,,0,暴露,,to expose,,,bào lù
+vocab,,0,悲哀,,grieved,,,bēi āi
+vocab,,0,悲惨,,miserable,,,bēi cǎn
+vocab,,0,卑鄙,,base,,,bēi bǐ
+vocab,,0,北极,,the North Pole,,,běi jí
+vocab,,0,被动,,passive,,,bèi dòng
+vocab,,0,被告,,defendant,,,bèi gào
+vocab,,0,背叛,,to betray,,,bèi pàn
+vocab,,0,背诵,,recite,,,bèi sòng
+vocab,,0,备份,,backup,,,bèi fèn
+vocab,,0,备忘录,,memorandum,,,bèi wàng lù
+vocab,,0,贝壳,,shell,,,bèi ké
+vocab,,0,奔波,,to rush about,,,bēn bō
+vocab,,0,奔驰,,to run quickly,,,bēn chí
+vocab,,0,本能,,instinct,,,běn néng
+vocab,,0,本钱,,capital,,,běn qián
+vocab,,0,本人,,the person himself,,,běn rén
+vocab,,0,本身,,itself,,,běn shēn
+vocab,,0,本事,,ability,,,běn shi
+vocab,,0,本着,,based on...,,,běn zhe
+vocab,,0,笨拙,,clumsy,,,bèn zhuō
+vocab,,0,崩溃,,to collapse,,,bēng kuì
+vocab,,0,甭,,need not,,,béng
+vocab,,0,蹦,,to jump,,,bèng
+vocab,,0,迸发,,to burst forth,,,bèng fā
+vocab,,0,逼迫,,to force,,,bī pò
+vocab,,0,鼻涕,,nasal mucus,,,bí tì
+vocab,,0,比方,,analogy,,,bǐ fang
+vocab,,0,比喻,,to compare,,,bǐ yù
+vocab,,0,比重,,proportion,,,bǐ zhòng
+vocab,,0,臂,,arm,,,bì
+vocab,,0,弊病,,malady,,,bì bìng
+vocab,,0,弊端,,malpractice,,,bì duān
+vocab,,0,必定,,be bound to,,,bì dìng
+vocab,,0,闭塞,,to stop up,,,bì sè
+vocab,,0,碧玉,,jasper,,,bì yù
+vocab,,0,鞭策,,to spur on,,,biān cè
+vocab,,0,编织,,to weave,,,biān zhī
+vocab,,0,边疆,,border area,,,biān jiāng
+vocab,,0,边界,,boundary,,,biān jiè
+vocab,,0,边境,,frontier,,,biān jìng
+vocab,,0,边缘,,edge,,,biān yuán
+vocab,,0,扁,,flat,,,biǎn
+vocab,,0,贬低,,to belittle,,,biǎn dī
+vocab,,0,贬义,,derogatory sense,,,biǎn yì
+vocab,,0,遍布,,to cover the whole (area),,,biàn bù
+vocab,,0,便利,,convenient,,,biàn lì
+vocab,,0,便条,,(informal) note,,,biàn tiáo
+vocab,,0,便于,,easy to,,,biàn yú
+vocab,,0,变故,,an unforeseen event,,,biàn gù
+vocab,,0,变迁,,changes,,,biàn qiān
+vocab,,0,变质,,to degenerate,,,biàn zhì
+vocab,,0,辩护,,to speak in defense of,,,biàn hù
+vocab,,0,辩解,,to explain,,,biàn jiě
+vocab,,0,辩证,,to investigate,,,biàn zhèng
+vocab,,0,辨认,,to recognize,,,biàn rèn
+vocab,,0,辫子,,plait,,,biàn zi
+vocab,,0,标本,,specimen,,,biāo běn
+vocab,,0,标记,,sign,,,biāo jì
+vocab,,0,标题,,title,,,biāo tí
+vocab,,0,飙升,,to rise rapidly,,,biāo shēng
+vocab,,0,表决,,to decide by vote,,,biǎo jué
+vocab,,0,表态,,to declare one's position,,,biǎo tài
+vocab,,0,表彰,,to honor,,,biǎo zhāng
+vocab,,0,憋,,to choke,,,biē
+vocab,,0,别墅,,villa,,,bié shù
+vocab,,0,别致,,variant of 別緻|别致[bié zhì],,,bié zhì
+vocab,,0,别扭,,awkward,,,biè niu
+vocab,,0,濒临,,on the verge of,,,bīn lín
+vocab,,0,冰雹,,hail,,,bīng báo
+vocab,,0,并存,,to exist at the same time,,,bìng cún
+vocab,,0,并非,,really isn't,,,bìng fēi
+vocab,,0,并列,,to stand side by side,,,bìng liè
+vocab,,0,拨打,,to call,,,bō dǎ
+vocab,,0,播放,,to broadcast,,,bō fàng
+vocab,,0,播种,,to sow seeds,,,bō zhǒng
+vocab,,0,波浪,,wave,,,bō làng
+vocab,,0,波涛汹涌,,waves surging forth,,,bō tāo xiōng yǒng
+vocab,,0,剥削,,to exploit,,,bō xuē
+vocab,,0,博大精深,,wide-ranging and profound,,,bó dà jīng shēn
+vocab,,0,博览会,,exposition,,,bó lǎn huì
+vocab,,0,搏斗,,to wrestle,,,bó dòu
+vocab,,0,伯母,,wife of father's elder brother,,,bó mǔ
+vocab,,0,薄弱,,weak,,,bó ruò
+vocab,,0,不顾,,in spite of,,,bù gù
+vocab,,0,不愧,,to be worthy of,,,bù kuì
+vocab,,0,不料,,unexpectedly,,,bù liào
+vocab,,0,不像话,,unreasonable,,,bù xiàng huà
+vocab,,0,不屑一顾,,to disdain as beneath contempt,,,bù xiè yī gù
+vocab,,0,补偿,,to compensate,,,bǔ cháng
+vocab,,0,补救,,to remedy,,,bǔ jiù
+vocab,,0,补贴,,to subsidize,,,bǔ tiē
+vocab,,0,哺乳,,breast feeding,,,bǔ rǔ
+vocab,,0,捕捉,,to catch,,,bǔ zhuō
+vocab,,0,不得已,,to act against one's will,,,bù dé yǐ
+vocab,,0,不妨,,there is no harm in,,,bù fáng
+vocab,,0,不敢当,,lit. I dare not (accept the honor); fig. I don't deserve your praise,,,bù gǎn dāng
+vocab,,0,不禁,,can't help (doing sth),,,bù jīn
+vocab,,0,不堪,,cannot bear,,,bù kān
+vocab,,0,不可思议,,inconceivable (idiom); unimaginable,,,bù kě sī yì
+vocab,,0,不时,,from time to time,,,bù shí
+vocab,,0,不惜,,not stint,,,bù xī
+vocab,,0,不相上下,,equally matched,,,bù xiāng shàng xià
+vocab,,0,不言而喻,,it goes without saying,,,bù yán ér yù
+vocab,,0,不由得,,can't help,,,bù yóu de
+vocab,,0,不择手段,,by fair means or foul,,,bù zé shǒu duàn
+vocab,,0,不止,,incessantly,,,bù zhǐ
+vocab,,0,布告,,posting on a bulletin board,,,bù gào
+vocab,,0,布局,,arrangement,,,bù jú
+vocab,,0,布置,,to put in order,,,bù zhì
+vocab,,0,步伐,,pace,,,bù fá
+vocab,,0,部署,,to dispose,,,bù shǔ
+vocab,,0,部位,,position,,,bù wèi
+vocab,,0,才干,,ability,,,cái gàn
+vocab,,0,财富,,wealth,,,cái fù
+vocab,,0,财务,,financial affairs,,,cái wù
+vocab,,0,财政,,finances (public),,,cái zhèng
+vocab,,0,裁缝,,tailor,,,cái féng
+vocab,,0,裁判,,judgment,,,cái pàn
+vocab,,0,裁员,,to cut staff,,,cái yuán
+vocab,,0,采购,,to procure (for an enterprise etc),,,cǎi gòu
+vocab,,0,采集,,to gather,,,cǎi jí
+vocab,,0,采纳,,to accept,,,cǎi nà
+vocab,,0,彩票,,lottery ticket,,,cǎi piào
+vocab,,0,参谋,,staff officer,,,cān móu
+vocab,,0,参照,,to consult a reference,,,cān zhào
+vocab,,0,残酷,,cruel,,,cán kù
+vocab,,0,残留,,to remain,,,cán liú
+vocab,,0,残忍,,cruel,,,cán rěn
+vocab,,0,灿烂,,to glitter,,,càn làn
+vocab,,0,舱,,cabin,,,cāng
+vocab,,0,苍白,,pale,,,cāng bái
+vocab,,0,仓促,,all of a sudden,,,cāng cù
+vocab,,0,仓库,,depot,,,cāng kù
+vocab,,0,操劳,,to work hard,,,cāo láo
+vocab,,0,操练,,drill,,,cāo liàn
+vocab,,0,操纵,,to operate,,,cāo zòng
+vocab,,0,操作,,to work,,,cāo zuò
+vocab,,0,嘈杂,,noisy,,,cáo zá
+vocab,,0,草案,,draft (legislation,,,cǎo àn
+vocab,,0,草率,,careless,,,cǎo shuài
+vocab,,0,策划,,to plot,,,cè huà
+vocab,,0,策略,,tactics,,,cè lvè
+vocab,,0,测量,,survey,,,cè liáng
+vocab,,0,侧面,,lateral side,,,cè miàn
+vocab,,0,层出不穷,,more and more emerge,,,céng chū bù qióng
+vocab,,0,层次,,arrangement of ideas,,,céng cì
+vocab,,0,差距,,disparity,,,chā jù
+vocab,,0,查获,,to investigate and capture (a criminal),,,chá huò
+vocab,,0,岔,,fork in road,,,chà
+vocab,,0,刹那,,an instant (Sanskrit: ksana),,,chà nà
+vocab,,0,诧异,,flabbergasted,,,chà yì
+vocab,,0,柴油,,diesel fuel,,,chái yóu
+vocab,,0,搀,,to assist by the arm,,,chān
+vocab,,0,馋,,gluttonous,,,chán
+vocab,,0,缠绕,,twisting,,,chán rào
+vocab,,0,产业,,industry,,,chǎn yè
+vocab,,0,阐述,,to expound (a position),,,chǎn shù
+vocab,,0,颤抖,,to shudder,,,chàn dǒu
+vocab,,0,猖狂,,savage,,,chāng kuáng
+vocab,,0,昌盛,,prosperous,,,chāng shèng
+vocab,,0,尝试,,to try,,,cháng shì
+vocab,,0,偿还,,to repay,,,cháng huán
+vocab,,0,常年,,all year round,,,cháng nián
+vocab,,0,常务,,routine,,,cháng wù
+vocab,,0,场合,,situation,,,chǎng hé
+vocab,,0,场面,,scene,,,chǎng miàn
+vocab,,0,场所,,location,,,chǎng suǒ
+vocab,,0,敞开,,to open wide,,,chǎng kāi
+vocab,,0,倡导,,to advocate,,,chàng dǎo
+vocab,,0,倡议,,to suggest,,,chàng yì
+vocab,,0,畅通,,unimpeded,,,chàng tōng
+vocab,,0,畅销,,to sell well,,,chàng xiāo
+vocab,,0,超级,,super-,,,chāo jí
+vocab,,0,超越,,to surpass,,,chāo yuè
+vocab,,0,钞票,,paper money,,,chāo piào
+vocab,,0,潮流,,tide,,,cháo liú
+vocab,,0,潮湿,,damp,,,cháo shī
+vocab,,0,嘲笑,,to jeer at,,,cháo xiào
+vocab,,0,撤退,,to retreat,,,chè tuì
+vocab,,0,撤销,,to repeal,,,chè xiāo
+vocab,,0,沉淀,,to settle,,,chén diàn
+vocab,,0,沉闷,,oppressive (of weather),,,chén mèn
+vocab,,0,沉思,,to contemplate,,,chén sī
+vocab,,0,沉重,,heavy,,,chén zhòng
+vocab,,0,沉着,,steady,,,chén zhuó
+vocab,,0,陈旧,,old-fashioned,,,chén jiù
+vocab,,0,陈列,,to display,,,chén liè
+vocab,,0,陈述,,an assertion,,,chén shù
+vocab,,0,称心如意,,after one's heart (idiom); gratifying and satisfactory,,,chèn xīn rú yì
+vocab,,0,称号,,name,,,chēng hào
+vocab,,0,盛,,to hold,,,chéng
+vocab,,0,橙,,orange tree,,,chéng
+vocab,,0,乘务员,,attendant on an airplane,,,chéng wù yuán
+vocab,,0,承办,,to undertake,,,chéng bàn
+vocab,,0,承包,,to contract,,,chéng bāo
+vocab,,0,承诺,,to promise,,,chéng nuò
+vocab,,0,城堡,,castle,,,chéng bǎo
+vocab,,0,成本,,(manufacturing,,,chéng běn
+vocab,,0,成交,,to complete a contract,,,chéng jiāo
+vocab,,0,成天,,(coll.) all day long,,,chéng tiān
+vocab,,0,成效,,effect,,,chéng xiào
+vocab,,0,成心,,intentional,,,chéng xīn
+vocab,,0,成员,,member,,,chéng yuán
+vocab,,0,惩罚,,penalty,,,chéng fá
+vocab,,0,诚挚,,sincere,,,chéng zhì
+vocab,,0,澄清,,clear (of liquid),,,chéng qīng
+vocab,,0,呈现,,to appear,,,chéng xiàn
+vocab,,0,秤,,steelyard,,,chèng
+vocab,,0,吃苦,,to bear,,,chī kǔ
+vocab,,0,吃力,,to entail strenuous effort,,,chī lì
+vocab,,0,迟缓,,slow,,,chí huǎn
+vocab,,0,迟疑,,to hesitate,,,chí yí
+vocab,,0,持久,,lasting,,,chí jiǔ
+vocab,,0,池塘,,pool,,,chí táng
+vocab,,0,赤道,,equator (of the earth or astronomical body),,,chì dào
+vocab,,0,赤字,,(financial) deficit,,,chì zì
+vocab,,0,冲动,,to have an urge,,,chōng dòng
+vocab,,0,冲击,,an attack,,,chōng jī
+vocab,,0,冲突,,conflict,,,chōng tū
+vocab,,0,充当,,to serve as,,,chōng dāng
+vocab,,0,充沛,,abundant,,,chōng pèi
+vocab,,0,充实,,rich,,,chōng shí
+vocab,,0,充足,,adequate,,,chōng zú
+vocab,,0,崇拜,,to worship,,,chóng bài
+vocab,,0,崇高,,majestic,,,chóng gāo
+vocab,,0,崇敬,,to revere,,,chóng jìng
+vocab,,0,重叠,,to overlap,,,chóng dié
+vocab,,0,重阳节,,Double Ninth or Yang Festival,,,Chóng yáng jié
+vocab,,0,抽空,,to find the time to do sth,,,chōu kòng
+vocab,,0,筹备,,preparations,,,chóu bèi
+vocab,,0,踌躇,,to hesitate,,,chóu chú
+vocab,,0,稠密,,dense,,,chóu mì
+vocab,,0,丑恶,,ugly,,,chǒu è
+vocab,,0,出路,,a way out (of a difficulty etc),,,chū lù
+vocab,,0,出卖,,to offer for sale,,,chū mài
+vocab,,0,出身,,to be born of,,,chū shēn
+vocab,,0,出神,,entranced,,,chū shén
+vocab,,0,出息,,future prospects,,,chū xi
+vocab,,0,出洋相,,to make a fool of oneself,,,chū yáng xiàng
+vocab,,0,初步,,initial,,,chū bù
+vocab,,0,储备,,reserves,,,chǔ bèi
+vocab,,0,储存,,stockpile,,,chǔ cún
+vocab,,0,储蓄,,to deposit money,,,chǔ xù
+vocab,,0,处分,,to discipline sb,,,chǔ fèn
+vocab,,0,处境,,plight,,,chǔ jìng
+vocab,,0,处置,,to handle,,,chǔ zhì
+vocab,,0,触犯,,to offend,,,chù fàn
+vocab,,0,穿越,,to pass through,,,chuān yuè
+vocab,,0,川流不息,,the stream flows without stopping (idiom); unending flow,,,chuān liú bù xī
+vocab,,0,船舶,,shipping,,,chuán bó
+vocab,,0,传达,,to pass on,,,chuán dá
+vocab,,0,传单,,leaflet,,,chuán dān
+vocab,,0,传授,,to impart,,,chuán shòu
+vocab,,0,喘气,,to breathe deeply,,,chuǎn qì
+vocab,,0,串,,to string together,,,chuàn
+vocab,,0,床单,,bed sheet,,,chuáng dān
+vocab,,0,创立,,to establish,,,chuàng lì
+vocab,,0,创新,,innovation,,,chuàng xīn
+vocab,,0,创业,,to begin an undertaking,,,chuàng yè
+vocab,,0,创作,,to create,,,chuàng zuò
+vocab,,0,吹牛,,to talk big,,,chuī niú
+vocab,,0,吹捧,,to flatter,,,chuī pěng
+vocab,,0,锤,,hammer,,,chuí
+vocab,,0,垂直,,perpendicular,,,chuí zhí
+vocab,,0,纯粹,,purely,,,chún cuì
+vocab,,0,纯洁,,pure,,,chún jié
+vocab,,0,词汇,,vocabulary,,,cí huì
+vocab,,0,慈祥,,kindly,,,cí xiáng
+vocab,,0,雌雄,,male and female,,,cí xióng
+vocab,,0,刺,,thorn,,,cì
+vocab,,0,次品,,substandard products,,,cì pǐn
+vocab,,0,次序,,sequence,,,cì xù
+vocab,,0,伺候,,to serve,,,cì hòu
+vocab,,0,丛,,cluster,,,cóng
+vocab,,0,从容不迫,,calm,,,cóng róng bù pò
+vocab,,0,凑合,,to bring together,,,còu he
+vocab,,0,粗鲁,,crude,,,cū lǔ
+vocab,,0,窜,,to flee,,,cuàn
+vocab,,0,摧残,,to ravage,,,cuī cán
+vocab,,0,脆弱,,weak,,,cuì ruò
+vocab,,0,搓,,to rub or roll between the hands or fingers,,,cuō
+vocab,,0,磋商,,to consult,,,cuō shāng
+vocab,,0,挫折,,setback,,,cuò zhé
+vocab,,0,搭,,to put up,,,dā
+vocab,,0,搭档,,to cooperate,,,dā dàng
+vocab,,0,搭配,,to pair up,,,dā pèi
+vocab,,0,答辩,,to reply (to an accusation),,,dá biàn
+vocab,,0,答复,,to answer,,,dá fù
+vocab,,0,达成,,to reach (an agreement),,,dá chéng
+vocab,,0,打包,,to wrap,,,dǎ bāo
+vocab,,0,打官司,,to file a lawsuit,,,dǎ guān si
+vocab,,0,打击,,to hit,,,dǎ jī
+vocab,,0,打架,,to fight,,,dǎ jià
+vocab,,0,打量,,to size sb up,,,dǎ liang
+vocab,,0,打猎,,to go hunting,,,dǎ liè
+vocab,,0,打仗,,to fight a battle,,,dǎ zhàng
+vocab,,0,大不了,,at worst,,,dà bù liǎo
+vocab,,0,大臣,,chancellor (of a monarchy),,,dà chén
+vocab,,0,大伙儿,,erhua variant of 大伙[dà huǒ],,,dà huǒ r
+vocab,,0,大厦,,large building,,,dà shà
+vocab,,0,大肆,,wantonly,,,dà sì
+vocab,,0,大体,,in general,,,dà tǐ
+vocab,,0,大意,,careless,,,dà yi
+vocab,,0,大致,,more or less,,,dà zhì
+vocab,,0,歹徒,,evil-doer,,,dǎi tú
+vocab,,0,带领,,to guide,,,dài lǐng
+vocab,,0,代价,,price,,,dài jià
+vocab,,0,代理,,to act on behalf of sb in a responsible position,,,dài lǐ
+vocab,,0,逮捕,,to arrest,,,dài bǔ
+vocab,,0,怠慢,,to slight,,,dài màn
+vocab,,0,担保,,to guarantee,,,dān bǎo
+vocab,,0,胆怯,,timid,,,dǎn qiè
+vocab,,0,淡季,,off season,,,dàn jì
+vocab,,0,淡水,,potable water (water with low salt content),,,dàn shuǐ
+vocab,,0,蛋白质,,protein,,,dàn bái zhì
+vocab,,0,诞辰,,birthday,,,dàn chén
+vocab,,0,诞生,,to be born,,,dàn shēng
+vocab,,0,当场,,at the scene,,,dāng chǎng
+vocab,,0,当初,,at that time,,,dāng chū
+vocab,,0,当面,,to sb's face,,,dāng miàn
+vocab,,0,当前,,current,,,dāng qián
+vocab,,0,当事人,,persons involved or implicated,,,dāng shì rén
+vocab,,0,当务之急,,top priority job,,,dāng wù zhī jí
+vocab,,0,当心,,to take care,,,dāng xīn
+vocab,,0,当选,,to be elected,,,dāng xuǎn
+vocab,,0,党,,party,,,dǎng
+vocab,,0,档案,,file,,,dàng àn
+vocab,,0,档次,,grade,,,dàng cì
+vocab,,0,岛屿,,island,,,dǎo yǔ
+vocab,,0,倒闭,,to go bankrupt,,,dǎo bì
+vocab,,0,导弹,,guided missile,,,dǎo dàn
+vocab,,0,导航,,navigation,,,dǎo háng
+vocab,,0,导向,,to be oriented towards,,,dǎo xiàng
+vocab,,0,捣乱,,to disturb,,,dǎo luàn
+vocab,,0,稻谷,,rice crops,,,dào gǔ
+vocab,,0,盗窃,,to steal,,,dào qiè
+vocab,,0,得不偿失,,(saying) the gains do not make up for the losses,,,dé bù cháng shī
+vocab,,0,得力,,able,,,dé lì
+vocab,,0,得天独厚,,(of an area) rich in resources,,,dé tiān dú hòu
+vocab,,0,得罪,,to commit an offense,,,dé zuì
+vocab,,0,蹬,,to step on,,,dēng
+vocab,,0,灯笼,,lantern,,,dēng lóng
+vocab,,0,登陆,,to land,,,dēng lù
+vocab,,0,登录,,to register,,,dēng lù
+vocab,,0,等级,,grade,,,děng jí
+vocab,,0,瞪,,to open (one's eyes) wide,,,dèng
+vocab,,0,堤坝,,dam,,,dī bà
+vocab,,0,敌视,,hostile,,,dí shì
+vocab,,0,抵达,,to arrive,,,dǐ dá
+vocab,,0,抵抗,,to resist,,,dǐ kàng
+vocab,,0,抵制,,to resist,,,dǐ zhì
+vocab,,0,递增,,to increase by degrees,,,dì zēng
+vocab,,0,地步,,condition,,,dì bù
+vocab,,0,地势,,terrain,,,dì shì
+vocab,,0,地质,,geology,,,dì zhì
+vocab,,0,颠簸,,to shake,,,diān bǒ
+vocab,,0,颠倒,,to turn upside-down,,,diān dǎo
+vocab,,0,点缀,,to decorate,,,diǎn zhuì
+vocab,,0,典礼,,celebration,,,diǎn lǐ
+vocab,,0,典型,,model,,,diǎn xíng
+vocab,,0,垫,,pad,,,diàn
+vocab,,0,电源,,electric power source,,,diàn yuán
+vocab,,0,奠定,,to establish,,,diàn dìng
+vocab,,0,惦记,,to think of,,,diàn jì
+vocab,,0,叼,,to hold in the mouth,,,diāo
+vocab,,0,雕刻,,to carve,,,diāo kè
+vocab,,0,雕塑,,a statue,,,diāo sù
+vocab,,0,吊,,a string of 100 cash (arch.),,,diào
+vocab,,0,调动,,to transfer,,,diào dòng
+vocab,,0,跌,,to drop,,,diē
+vocab,,0,盯,,to watch attentively,,,dīng
+vocab,,0,叮嘱,,to warn repeatedly,,,dīng zhǔ
+vocab,,0,定期,,regularly,,,dìng qī
+vocab,,0,定义,,definition,,,dìng yì
+vocab,,0,丢人,,to lose face,,,diū rén
+vocab,,0,丢三落四,,forgetful,,,diū sān là sì
+vocab,,0,东道主,,host,,,dōng dào zhǔ
+vocab,,0,东张西望,,to look in all directions (idiom),,,dōng zhāng xī wàng
+vocab,,0,董事长,,chairman of the board,,,dǒng shì zhǎng
+vocab,,0,栋,,classifier for houses or buildings,,,dòng
+vocab,,0,冻结,,to freeze (loan,,,dòng jié
+vocab,,0,洞穴,,cave,,,dòng xué
+vocab,,0,动荡,,unrest (social or political),,,dòng dàng
+vocab,,0,动机,,motor,,,dòng jī
+vocab,,0,动静,,sound of activity or people talking,,,dòng jìng
+vocab,,0,动力,,power,,,dòng lì
+vocab,,0,动脉,,artery,,,dòng mài
+vocab,,0,动身,,to go on a journey,,,dòng shēn
+vocab,,0,动手,,to set about (a task),,,dòng shǒu
+vocab,,0,动态,,development,,,dòng tài
+vocab,,0,动员,,to mobilize,,,dòng yuán
+vocab,,0,兜,,pocket,,,dōu
+vocab,,0,陡峭,,precipitous,,,dǒu qiào
+vocab,,0,斗争,,a struggle,,,dòu zhēng
+vocab,,0,督促,,to supervise and urge completion of a task,,,dū cù
+vocab,,0,都市,,city,,,dū shì
+vocab,,0,独裁,,dictatorship,,,dú cái
+vocab,,0,毒品,,drugs,,,dú pǐn
+vocab,,0,赌博,,to gamble,,,dǔ bó
+vocab,,0,堵塞,,to block,,,dǔ sè
+vocab,,0,杜绝,,to put an end to,,,dù jué
+vocab,,0,端,,end,,,duān
+vocab,,0,端午节,,the Dragon Boat Festival (5th day of the 5th lunar month),,,Duān wǔ jié
+vocab,,0,端正,,upright,,,duān zhèng
+vocab,,0,短促,,short in time,,,duǎn cù
+vocab,,0,断定,,to conclude,,,duàn dìng
+vocab,,0,断断续续,,intermittent,,,duàn duàn xù xù
+vocab,,0,断绝,,to sever,,,duàn jué
+vocab,,0,堆积,,to pile up,,,duī jī
+vocab,,0,对策,,countermeasure for dealing with a situation,,,duì cè
+vocab,,0,对称,,symmetry,,,duì chèn
+vocab,,0,对付,,to handle,,,duì fu
+vocab,,0,对抗,,to withstand,,,duì kàng
+vocab,,0,对立,,to oppose,,,duì lì
+vocab,,0,对联,,rhyming couplet,,,duì lián
+vocab,,0,对应,,to correspond,,,duì yìng
+vocab,,0,对照,,to contrast,,,duì zhào
+vocab,,0,兑换,,to convert,,,duì huàn
+vocab,,0,兑现,,(of a cheque etc) to cash,,,duì xiàn
+vocab,,0,队伍,,ranks,,,duì wǔ
+vocab,,0,顿时,,immediately,,,dùn shí
+vocab,,0,多元化,,diversification,,,duō yuán huà
+vocab,,0,哆嗦,,to tremble,,,duō suo
+vocab,,0,堕落,,to morally degenerate,,,duò luò
+vocab,,0,额外,,extra,,,é wài
+vocab,,0,恶心,,bad habit,,,è xīn
+vocab,,0,恶化,,to worsen,,,è huà
+vocab,,0,遏制,,to check,,,è zhì
+vocab,,0,恩怨,,(feeling of) resentment,,,ēn yuàn
+vocab,,0,而已,,that's all,,,ér yǐ
+vocab,,0,耳环,,earring,,,ěr huán
+vocab,,0,二氧化碳,,carbon dioxide CO2,,,èr yǎng huà tàn
+vocab,,0,发布,,to release,,,fā bù
+vocab,,0,发财,,to get rich,,,fā cái
+vocab,,0,发呆,,to stare blankly,,,fā dāi
+vocab,,0,发动,,to start,,,fā dòng
+vocab,,0,发火,,to catch fire,,,fā huǒ
+vocab,,0,发觉,,to find,,,fā jué
+vocab,,0,发射,,to shoot (a projectile),,,fā shè
+vocab,,0,发誓,,to vow,,,fā shì
+vocab,,0,发行,,to publish,,,fā xíng
+vocab,,0,发炎,,to become inflamed,,,fā yán
+vocab,,0,发扬,,to develop,,,fā yáng
+vocab,,0,发育,,to develop,,,fā yù
+vocab,,0,法人,,legal person,,,fǎ rén
+vocab,,0,番,,foreign,,,fān
+vocab,,0,繁华,,flourishing,,,fán huá
+vocab,,0,繁忙,,busy,,,fán máng
+vocab,,0,繁体字,,traditional Chinese character,,,fán tǐ zì
+vocab,,0,繁殖,,to breed,,,fán zhí
+vocab,,0,反驳,,to retort,,,fǎn bó
+vocab,,0,反常,,unusual,,,fǎn cháng
+vocab,,0,反倒,,but on the contrary,,,fǎn dào
+vocab,,0,反动,,reaction,,,fǎn dòng
+vocab,,0,反感,,to be disgusted with,,,fǎn gǎn
+vocab,,0,反抗,,to resist,,,fǎn kàng
+vocab,,0,反馈,,to send back information,,,fǎn kuì
+vocab,,0,反面,,reverse side,,,fǎn miàn
+vocab,,0,反射,,to reflect,,,fǎn shè
+vocab,,0,反思,,to think back over sth,,,fǎn sī
+vocab,,0,反问,,to ask (a question) in reply,,,fǎn wèn
+vocab,,0,反之,,on the other hand...,,,fǎn zhī
+vocab,,0,范畴,,category,,,fàn chóu
+vocab,,0,泛滥,,to be in flood,,,fàn làn
+vocab,,0,贩卖,,to sell,,,fàn mài
+vocab,,0,方位,,direction,,,fāng wèi
+vocab,,0,方言,,dialect,,,fāng yán
+vocab,,0,方针,,policy,,,fāng zhēn
+vocab,,0,防守,,to defend,,,fáng shǒu
+vocab,,0,防疫,,disease prevention,,,fáng yì
+vocab,,0,防御,,defense,,,fáng yù
+vocab,,0,防止,,to prevent,,,fáng zhǐ
+vocab,,0,防治,,prevention and cure,,,fáng zhì
+vocab,,0,纺织,,spinning and weaving,,,fǎng zhī
+vocab,,0,放大,,to enlarge,,,fàng dà
+vocab,,0,放射,,to radiate,,,fàng shè
+vocab,,0,放手,,to let go one's hold,,,fàng shǒu
+vocab,,0,非法,,illegal,,,fēi fǎ
+vocab,,0,飞禽走兽,,birds and animals,,,fēi qín zǒu shòu
+vocab,,0,飞翔,,to fly,,,fēi xiáng
+vocab,,0,飞跃,,to leap,,,fēi yuè
+vocab,,0,肥沃,,fertile,,,féi wò
+vocab,,0,诽谤,,to slander,,,fěi bàng
+vocab,,0,匪徒,,gangster,,,fěi tú
+vocab,,0,废除,,to abolish,,,fèi chú
+vocab,,0,废墟,,ruins,,,fèi xū
+vocab,,0,沸腾,,boiling,,,fèi téng
+vocab,,0,分辨,,to distinguish,,,fēn biàn
+vocab,,0,分寸,,propriety,,,fēn cùn
+vocab,,0,分红,,a bonus,,,fēn hóng
+vocab,,0,分解,,to resolve,,,fēn jiě
+vocab,,0,分裂,,to split up,,,fēn liè
+vocab,,0,分泌,,to secrete,,,fēn mì
+vocab,,0,分明,,clearly demarcated,,,fēn míng
+vocab,,0,分歧,,difference (of opinion,,,fēn qí
+vocab,,0,分散,,to scatter,,,fēn sàn
+vocab,,0,分手,,to split up,,,fēn shǒu
+vocab,,0,吩咐,,to tell,,,fēn fù
+vocab,,0,坟墓,,sepulcher,,,fén mù
+vocab,,0,粉末,,fine powder,,,fěn mò
+vocab,,0,粉色,,white,,,fěn sè
+vocab,,0,粉碎,,to crush,,,fěn suì
+vocab,,0,分量,,quantity,,,fèn liang
+vocab,,0,风暴,,storm,,,fēng bào
+vocab,,0,风度,,elegance (for men),,,fēng dù
+vocab,,0,风光,,scene,,,fēng guāng
+vocab,,0,风气,,general mood,,,fēng qì
+vocab,,0,风趣,,humor,,,fēng qù
+vocab,,0,风土人情,,local conditions and customs (idiom),,,fēng tǔ rén qíng
+vocab,,0,风味,,local flavor,,,fēng wèi
+vocab,,0,封闭,,to seal,,,fēng bì
+vocab,,0,封建,,system of enfeoffment,,,fēng jiàn
+vocab,,0,封锁,,to blockade,,,fēng suǒ
+vocab,,0,丰满,,ample,,,fēng mǎn
+vocab,,0,丰盛,,rich,,,fēng shèng
+vocab,,0,丰收,,bumper harvest,,,fēng shōu
+vocab,,0,锋利,,sharp (e.g. knife blade),,,fēng lì
+vocab,,0,逢,,to meet by chance,,,féng
+vocab,,0,奉献,,to consecrate,,,fèng xiàn
+vocab,,0,否决,,veto,,,fǒu jué
+vocab,,0,夫妇,,a (married) couple,,,fū fù
+vocab,,0,夫人,,lady,,,fū ren
+vocab,,0,敷衍,,to elaborate (on a theme),,,fū yǎn
+vocab,,0,幅度,,width,,,fú dù
+vocab,,0,服气,,to be convinced,,,fú qì
+vocab,,0,符号,,symbol,,,fú hào
+vocab,,0,福利,,(material) welfare,,,fú lì
+vocab,,0,福气,,good fortune,,,fú qi
+vocab,,0,俘虏,,captive,,,fú lǔ
+vocab,,0,辐射,,radiation,,,fú shè
+vocab,,0,腐败,,corruption,,,fǔ bài
+vocab,,0,腐烂,,to rot,,,fǔ làn
+vocab,,0,腐蚀,,corrosion,,,fǔ shí
+vocab,,0,腐朽,,rotten,,,fǔ xiǔ
+vocab,,0,辅助,,to assist,,,fǔ zhù
+vocab,,0,抚养,,to foster,,,fǔ yǎng
+vocab,,0,俯仰,,lowering and raising of the head,,,fǔ yǎng
+vocab,,0,富裕,,prosperous,,,fù yù
+vocab,,0,副,,secondary,,,fù
+vocab,,0,副作用,,side effect,,,fù zuò yòng
+vocab,,0,负担,,burden,,,fù dān
+vocab,,0,覆盖,,to cover,,,fù gài
+vocab,,0,附和,,to parrot,,,fù hè
+vocab,,0,附件,,enclosure,,,fù jiàn
+vocab,,0,附属,,subsidiary,,,fù shǔ
+vocab,,0,复活,,resurrection,,,fù huó
+vocab,,0,复兴,,to revive,,,fù xīng
+vocab,,0,腹泻,,diarrhea,,,fù xiè
+vocab,,0,赋予,,to assign,,,fù yǔ
+vocab,,0,改良,,to improve,,,gǎi liáng
+vocab,,0,盖章,,to affix a seal (to sth),,,gài zhāng
+vocab,,0,干旱,,drought,,,gān hàn
+vocab,,0,干扰,,to interfere,,,gān rǎo
+vocab,,0,干涉,,to interfere,,,gān shè
+vocab,,0,干预,,to meddle,,,gān yù
+vocab,,0,尴尬,,awkward,,,gān gà
+vocab,,0,甘心,,to be willing to,,,gān xīn
+vocab,,0,感慨,,to sigh with sorrow,,,gǎn kǎi
+vocab,,0,感染,,infection,,,gǎn rǎn
+vocab,,0,干劲,,enthusiasm for doing sth,,,gàn jìn
+vocab,,0,纲领,,program,,,gāng lǐng
+vocab,,0,港口,,port,,,gǎng kǒu
+vocab,,0,港湾,,natural harbor,,,gǎng wān
+vocab,,0,岗位,,a post,,,gǎng wèi
+vocab,,0,杠杆,,lever,,,gàng gǎn
+vocab,,0,高超,,excellent,,,gāo chāo
+vocab,,0,高潮,,high tide,,,gāo cháo
+vocab,,0,高峰,,peak,,,gāo fēng
+vocab,,0,高考,,college entrance exam (abbr. for 普通高等學校招生全國統一考試|普通高等学校招生全国统一考试),,,gāo kǎo
+vocab,,0,高明,,brilliant,,,gāo míng
+vocab,,0,高尚,,noble,,,gāo shàng
+vocab,,0,高涨,,upsurge,,,gāo zhǎng
+vocab,,0,稿件,,rough draft,,,gǎo jiàn
+vocab,,0,告辞,,to say goodbye,,,gào cí
+vocab,,0,告诫,,to warn,,,gào jiè
+vocab,,0,割,,to cut,,,gē
+vocab,,0,搁,,to place,,,gē
+vocab,,0,疙瘩,,swelling or lump on skin,,,gē da
+vocab,,0,歌颂,,to sing the praises of,,,gē sòng
+vocab,,0,隔阂,,estrangement,,,gé hé
+vocab,,0,隔离,,to separate,,,gé lí
+vocab,,0,格局,,structure,,,gé jú
+vocab,,0,格式,,form,,,gé shì
+vocab,,0,个体,,individual,,,gè tǐ
+vocab,,0,各抒己见,,everyone gives their own view,,,gè shū jǐ jiàn
+vocab,,0,根深蒂固,,deep-rooted (problem etc),,,gēn shēn dì gù
+vocab,,0,根源,,origin,,,gēn yuán
+vocab,,0,跟前,,in front of,,,gēn qián
+vocab,,0,跟随,,to follow,,,gēn suí
+vocab,,0,跟踪,,to follow sb's tracks,,,gēn zōng
+vocab,,0,耕地,,arable land,,,gēng dì
+vocab,,0,更新,,to replace the old with new,,,gēng xīn
+vocab,,0,更正,,to correct,,,gēng zhèng
+vocab,,0,公安局,,public security bureau,,,gōng ān jú
+vocab,,0,公道,,fair,,,gōng dao
+vocab,,0,公告,,post,,,gōng gào
+vocab,,0,公关,,public relations,,,gōng guān
+vocab,,0,公民,,citizen,,,gōng mín
+vocab,,0,公婆,,husband's parents,,,gōng pó
+vocab,,0,公然,,openly,,,gōng rán
+vocab,,0,公认,,publicly known (to be),,,gōng rèn
+vocab,,0,公式,,formula,,,gōng shì
+vocab,,0,公务,,official business,,,gōng wù
+vocab,,0,公正,,just,,,gōng zhèng
+vocab,,0,公证,,notarization,,,gōng zhèng
+vocab,,0,供不应求,,supply does not meet demand,,,gōng bù yìng qiú
+vocab,,0,供给,,to furnish,,,gōng jǐ
+vocab,,0,工夫,,time,,,gōng fu
+vocab,,0,工艺品,,handicraft article,,,gōng yì pǐn
+vocab,,0,宫殿,,palace,,,gōng diàn
+vocab,,0,功课,,homework,,,gōng kè
+vocab,,0,功劳,,contribution,,,gōng láo
+vocab,,0,功效,,efficacy,,,gōng xiào
+vocab,,0,攻击,,to attack,,,gōng jī
+vocab,,0,攻克,,to capture,,,gōng kè
+vocab,,0,恭敬,,deferential,,,gōng jìng
+vocab,,0,巩固,,to consolidate,,,gǒng gù
+vocab,,0,共和国,,republic,,,gòng hé guó
+vocab,,0,共计,,to sum up to,,,gòng jì
+vocab,,0,共鸣,,resonance (physics),,,gòng míng
+vocab,,0,勾结,,to collude with,,,gōu jié
+vocab,,0,钩子,,hook,,,gōu zi
+vocab,,0,构思,,to design,,,gòu sī
+vocab,,0,孤独,,lonely,,,gū dú
+vocab,,0,孤立,,isolate,,,gū lì
+vocab,,0,辜负,,to fail to live up (to expectations),,,gū fù
+vocab,,0,姑且,,temporarily,,,gū qiě
+vocab,,0,古董,,curio,,,gǔ dǒng
+vocab,,0,古怪,,eccentric,,,gǔ guài
+vocab,,0,股东,,shareholder,,,gǔ dōng
+vocab,,0,股份,,a share (in a company),,,gǔ fèn
+vocab,,0,鼓动,,to agitate,,,gǔ dòng
+vocab,,0,骨干,,diaphysis (long segment of a bone),,,gǔ gàn
+vocab,,0,固然,,admittedly (it's true that...),,,gù rán
+vocab,,0,固有,,intrinsic to sth,,,gù yǒu
+vocab,,0,固执,,obstinate,,,gù zhí
+vocab,,0,顾虑,,misgivings,,,gù lǜ
+vocab,,0,顾问,,adviser,,,gù wèn
+vocab,,0,故乡,,home,,,gù xiāng
+vocab,,0,故障,,malfunction,,,gù zhàng
+vocab,,0,拐杖,,crutches,,,guǎi zhàng
+vocab,,0,关照,,to take care,,,guān zhào
+vocab,,0,官方,,official,,,guān fāng
+vocab,,0,观光,,to tour,,,guān guāng
+vocab,,0,管辖,,to administer,,,guǎn xiá
+vocab,,0,罐,,can,,,guàn
+vocab,,0,贯彻,,to implement,,,guàn chè
+vocab,,0,灌溉,,to irrigate,,,guàn gài
+vocab,,0,惯例,,convention,,,guàn lì
+vocab,,0,光彩,,luster,,,guāng cǎi
+vocab,,0,光辉,,radiance,,,guāng huī
+vocab,,0,光芒,,rays of light,,,guāng máng
+vocab,,0,广阔,,wide,,,guǎng kuò
+vocab,,0,规范,,norm,,,guī fàn
+vocab,,0,规格,,standard,,,guī gé
+vocab,,0,规划,,to plan (how to do sth),,,guī huà
+vocab,,0,规章,,rule,,,guī zhāng
+vocab,,0,归根到底,,(saying) to sum it up...,,,guī gēn dào dǐ
+vocab,,0,归还,,to return sth,,,guī huán
+vocab,,0,归纳,,to sum up,,,guī nà
+vocab,,0,轨道,,orbit,,,guǐ dào
+vocab,,0,跪,,to kneel,,,guì
+vocab,,0,贵族,,lord,,,guì zú
+vocab,,0,棍棒,,club,,,gùn bàng
+vocab,,0,国防,,national defense,,,guó fáng
+vocab,,0,国务院,,State Council (PRC),,,Guó Wù Yuàn
+vocab,,0,果断,,firm,,,guǒ duàn
+vocab,,0,过度,,excessive,,,guò dù
+vocab,,0,过渡,,to cross over (by ferry),,,guò dù
+vocab,,0,过奖,,to over-praise,,,guò jiǎng
+vocab,,0,过滤,,to filter,,,guò lǜ
+vocab,,0,过失,,defect,,,guò shī
+vocab,,0,过问,,to show an interest in,,,guò wèn
+vocab,,0,过瘾,,to satisfy a craving,,,guò yǐn
+vocab,,0,过于,,too much,,,guò yú
+vocab,,0,嗨,,oh alas,,,hāi
+vocab,,0,海拔,,height above sea level,,,hǎi bá
+vocab,,0,海滨,,shore,,,hǎi bīn
+vocab,,0,含糊,,obscurity,,,hán hú
+vocab,,0,含义,,meaning (implicit in a phrase),,,hán yì
+vocab,,0,寒暄,,exchanging conventional greetings,,,hán xuān
+vocab,,0,罕见,,rare,,,hǎn jiàn
+vocab,,0,捍卫,,to defend,,,hàn wèi
+vocab,,0,航空,,aviation,,,háng kōng
+vocab,,0,航天,,space flight,,,háng tiān
+vocab,,0,航行,,to sail,,,háng xíng
+vocab,,0,行列,,procession,,,háng liè
+vocab,,0,豪迈,,bold,,,háo mài
+vocab,,0,毫米,,millimeter,,,háo mǐ
+vocab,,0,毫无,,not in the least,,,háo wú
+vocab,,0,号召,,to call,,,hào zhào
+vocab,,0,耗费,,to waste,,,hào fèi
+vocab,,0,好客,,hospitality,,,hào kè
+vocab,,0,呵,,expel breath,,,hē
+vocab,,0,和蔼,,kindly,,,hé ǎi
+vocab,,0,和解,,to settle (a dispute out of court),,,hé jiě
+vocab,,0,和睦,,peaceful relations,,,hé mù
+vocab,,0,和气,,friendly,,,hé qi
+vocab,,0,和谐,,harmonious,,,hé xié
+vocab,,0,合并,,to merge,,,hé bìng
+vocab,,0,合成,,to compose,,,hé chéng
+vocab,,0,合乎,,to accord with,,,hé hū
+vocab,,0,合伙,,to act jointly,,,hé huǒ
+vocab,,0,合身,,well-fitting (of clothes),,,hé shēn
+vocab,,0,合算,,worthwhile,,,hé suàn
+vocab,,0,嘿,,hey,,,hēi
+vocab,,0,痕迹,,vestige,,,hén jì
+vocab,,0,狠心,,callous,,,hěn xīn
+vocab,,0,恨不得,,wishing one could do sth,,,hèn bu dé
+vocab,,0,哼,,to groan,,,hēng
+vocab,,0,哄,,roar of laughter (onomatopoeia),,,hōng
+vocab,,0,烘,,to bake,,,hōng
+vocab,,0,轰动,,to cause a sensation,,,hōng dòng
+vocab,,0,红包,,lit. money wrapped in red as a gift,,,hóng bāo
+vocab,,0,宏观,,macro-,,,hóng guān
+vocab,,0,宏伟,,grand,,,hóng wěi
+vocab,,0,洪水,,deluge,,,hóng shuǐ
+vocab,,0,喉咙,,throat,,,hóu lóng
+vocab,,0,吼,,roar or howl of an animal,,,hǒu
+vocab,,0,后代,,posterity,,,hòu dài
+vocab,,0,后顾之忧,,fears of trouble in the rear (idiom); family worries (obstructing freedom of action),,,hòu gù zhī yōu
+vocab,,0,后勤,,logistics,,,hòu qín
+vocab,,0,候选,,candidate,,,hòu xuǎn
+vocab,,0,忽略,,to neglect,,,hū lvè
+vocab,,0,呼啸,,to whistle,,,hū xiào
+vocab,,0,呼吁,,to call on (sb to do sth),,,hū yù
+vocab,,0,胡乱,,careless,,,hú luàn
+vocab,,0,湖泊,,lake,,,hú pō
+vocab,,0,互联网,,the Internet,,,Hù lián wǎng
+vocab,,0,花瓣,,petal,,,huā bàn
+vocab,,0,华丽,,gorgeous,,,huá lì
+vocab,,0,华侨,,overseas Chinese,,,huá qiáo
+vocab,,0,画蛇添足,,lit. draw legs on a snake (idiom); fig. to ruin the effect by adding sth superfluous,,,huà shé tiān zú
+vocab,,0,化肥,,fertilizer,,,huà féi
+vocab,,0,化石,,fossil,,,huà shí
+vocab,,0,化验,,laboratory test,,,huà yàn
+vocab,,0,化妆,,to put on makeup,,,huà zhuāng
+vocab,,0,划分,,to divide,,,huà fēn
+vocab,,0,话筒,,microphone,,,huà tǒng
+vocab,,0,怀孕,,pregnant,,,huái yùn
+vocab,,0,欢乐,,gaiety,,,huān lè
+vocab,,0,还原,,to restore to the original state,,,huán yuán
+vocab,,0,环节,,round segment,,,huán jié
+vocab,,0,缓和,,to ease (tension),,,huǎn hé
+vocab,,0,患者,,patient,,,huàn zhě
+vocab,,0,荒凉,,desolate,,,huāng liáng
+vocab,,0,荒谬,,absurd,,,huāng miù
+vocab,,0,荒唐,,beyond belief,,,huāng táng
+vocab,,0,慌忙,,in a great rush,,,huāng máng
+vocab,,0,黄昏,,dusk,,,huáng hūn
+vocab,,0,恍然大悟,,to suddenly realize,,,huǎng rán dà wù
+vocab,,0,挥霍,,to squander money,,,huī huò
+vocab,,0,辉煌,,splendid,,,huī huáng
+vocab,,0,回报,,(in) return,,,huí bào
+vocab,,0,回避,,to shun,,,huí bì
+vocab,,0,回顾,,to look back,,,huí gù
+vocab,,0,回收,,to recycle,,,huí shōu
+vocab,,0,悔恨,,remorse,,,huǐ hèn
+vocab,,0,毁灭,,to perish,,,huǐ miè
+vocab,,0,会晤,,to meet,,,huì wù
+vocab,,0,汇报,,to report,,,huì bào
+vocab,,0,贿赂,,to bribe,,,huì lù
+vocab,,0,昏迷,,to lose consciousness,,,hūn mí
+vocab,,0,浑身,,all over,,,hún shēn
+vocab,,0,混合,,to mix,,,hùn hé
+vocab,,0,混乱,,confusion,,,hùn luàn
+vocab,,0,混淆,,to obscure,,,hùn xiáo
+vocab,,0,混浊,,turbid,,,hùn zhuó
+vocab,,0,活该,,(coll.) serve sb right,,,huó gāi
+vocab,,0,活力,,energy,,,huó lì
+vocab,,0,火箭,,rocket,,,huǒ jiàn
+vocab,,0,火焰,,blaze,,,huǒ yàn
+vocab,,0,火药,,gunpowder,,,huǒ yào
+vocab,,0,货币,,currency,,,huò bì
+vocab,,0,或许,,perhaps,,,huò xǔ
+vocab,,0,基地,,base (of operations),,,jī dì
+vocab,,0,基金,,fund,,,jī jīn
+vocab,,0,基因,,gene (loanword),,,jī yīn
+vocab,,0,机动,,locomotive,,,jī dòng
+vocab,,0,机构,,mechanism,,,jī gòu
+vocab,,0,机关,,mechanism,,,jī guān
+vocab,,0,机灵,,clever,,,jī líng
+vocab,,0,机密,,secret,,,jī mì
+vocab,,0,机械,,machine,,,jī xiè
+vocab,,0,机遇,,opportunity,,,jī yù
+vocab,,0,机智,,quick-witted,,,jī zhì
+vocab,,0,激发,,to arouse,,,jī fā
+vocab,,0,激励,,to encourage,,,jī lì
+vocab,,0,激情,,passion,,,jī qíng
+vocab,,0,饥饿,,hunger,,,jī è
+vocab,,0,讥笑,,to sneer,,,jī xiào
+vocab,,0,极端,,extreme,,,jí duān
+vocab,,0,极限,,limit,,,jí xiàn
+vocab,,0,即便,,even if,,,jí biàn
+vocab,,0,即将,,on the eve of,,,jí jiāng
+vocab,,0,级别,,(military) rank,,,jí bié
+vocab,,0,疾病,,disease,,,jí bìng
+vocab,,0,嫉妒,,to be jealous,,,jí dù
+vocab,,0,及早,,at the earliest possible time,,,jí zǎo
+vocab,,0,急功近利,,seeking instant benefit (idiom); shortsighted vision,,,jí gōng jìn lì
+vocab,,0,急剧,,rapid,,,jí jù
+vocab,,0,急切,,eager,,,jí qiè
+vocab,,0,急于求成,,anxious for quick results (idiom); to demand instant success,,,jí yú qiú chéng
+vocab,,0,急躁,,irritable,,,jí zào
+vocab,,0,籍贯,,one's native place,,,jí guàn
+vocab,,0,集团,,group,,,jí tuán
+vocab,,0,吉祥,,lucky,,,jí xiáng
+vocab,,0,给予,,to accord,,,jǐ yǔ
+vocab,,0,寄托,,to have sb look after sb,,,jì tuō
+vocab,,0,继承,,to inherit,,,jì chéng
+vocab,,0,继往开来,,to follow the past and herald the future (idiom); part of a historical transition,,,jì wǎng kāi lái
+vocab,,0,记性,,memory,,,jì xìng
+vocab,,0,记载,,to write down,,,jì zǎi
+vocab,,0,季度,,quarter of a year,,,jì dù
+vocab,,0,季军,,third in a race,,,jì jūn
+vocab,,0,计较,,to bother about,,,jì jiào
+vocab,,0,忌讳,,taboo,,,jì huì
+vocab,,0,寂静,,quiet,,,jì jìng
+vocab,,0,纪要,,minutes,,,jì yào
+vocab,,0,技能,,technical ability,,,jì néng
+vocab,,0,技巧,,skill,,,jì qiǎo
+vocab,,0,迹象,,mark,,,jì xiàng
+vocab,,0,家常,,the daily life of a family,,,jiā cháng
+vocab,,0,家伙,,household dish,,,jiā huo
+vocab,,0,家属,,family member,,,jiā shǔ
+vocab,,0,家喻户晓,,understood by everyone (idiom); well known,,,jiā yù hù xiǎo
+vocab,,0,加工,,to process,,,jiā gōng
+vocab,,0,加剧,,to intensify,,,jiā jù
+vocab,,0,佳肴,,fine food,,,jiā yáo
+vocab,,0,夹杂,,to mix together (disparate substances),,,jiā zá
+vocab,,0,假设,,suppose that...,,,jiǎ shè
+vocab,,0,假使,,if,,,jiǎ shǐ
+vocab,,0,坚定,,firm,,,jiān dìng
+vocab,,0,坚固,,firm,,,jiān gù
+vocab,,0,坚韧,,tough and durable,,,jiān rèn
+vocab,,0,坚实,,firm and substantial,,,jiān shí
+vocab,,0,坚硬,,hard,,,jiān yìng
+vocab,,0,监督,,to control,,,jiān dū
+vocab,,0,监视,,to monitor,,,jiān shì
+vocab,,0,监狱,,prison,,,jiān yù
+vocab,,0,尖端,,sharp pointed end,,,jiān duān
+vocab,,0,艰难,,difficult,,,jiān nán
+vocab,,0,兼职,,to hold concurrent posts,,,jiān zhí
+vocab,,0,拣,,to choose,,,jiǎn
+vocab,,0,剪彩,,to cut the ribbon (at a launching or opening ceremony),,,jiǎn cǎi
+vocab,,0,检讨,,to examine or inspect,,,jiǎn tǎo
+vocab,,0,检验,,to inspect,,,jiǎn yàn
+vocab,,0,简化,,to simplify,,,jiǎn huà
+vocab,,0,简陋,,simple and crude (of a room or building),,,jiǎn lòu
+vocab,,0,简体字,,simplified Chinese character,,,jiǎn tǐ zì
+vocab,,0,简要,,concise,,,jiǎn yào
+vocab,,0,溅,,splash,,,jiàn
+vocab,,0,鉴别,,to differentiate,,,jiàn bié
+vocab,,0,鉴定,,to appraise,,,jiàn dìng
+vocab,,0,鉴于,,in view of,,,jiàn yú
+vocab,,0,间谍,,spy,,,jiàn dié
+vocab,,0,间隔,,compartment,,,jiàn gé
+vocab,,0,间接,,indirect,,,jiàn jiē
+vocab,,0,见多识广,,experienced and knowledgeable (idiom),,,jiàn duō shí guǎng
+vocab,,0,见解,,opinion,,,jiàn jiě
+vocab,,0,见闻,,what one sees and hears,,,jiàn wén
+vocab,,0,见义勇为,,to see what is right and act courageously (idiom,,,jiàn yì yǒng wéi
+vocab,,0,健全,,robust,,,jiàn quán
+vocab,,0,践踏,,to trample,,,jiàn tà
+vocab,,0,舰艇,,warship,,,jiàn tǐng
+vocab,,0,将近,,almost,,,jiāng jìn
+vocab,,0,将军,,general,,,jiāng jūn
+vocab,,0,僵硬,,stiff,,,jiāng yìng
+vocab,,0,桨,,oar,,,jiǎng
+vocab,,0,奖励,,to reward,,,jiǎng lì
+vocab,,0,奖赏,,reward,,,jiǎng shǎng
+vocab,,0,降临,,to descend to,,,jiàng lín
+vocab,,0,交叉,,to cross,,,jiāo chā
+vocab,,0,交代,,to hand over,,,jiāo dài
+vocab,,0,交涉,,to negotiate,,,jiāo shè
+vocab,,0,交往,,to associate,,,jiāo wǎng
+vocab,,0,交易,,(business) transaction,,,jiāo yì
+vocab,,0,焦点,,focus,,,jiāo diǎn
+vocab,,0,焦急,,anxiety,,,jiāo jí
+vocab,,0,娇气,,delicate,,,jiāo qì
+vocab,,0,角落,,nook,,,jiǎo luò
+vocab,,0,搅拌,,to stir,,,jiǎo bàn
+vocab,,0,缴纳,,to pay (taxes etc),,,jiǎo nà
+vocab,,0,教养,,to train,,,jiào yǎng
+vocab,,0,较量,,to have a contest with sb,,,jiào liàng
+vocab,,0,皆,,all,,,jiē
+vocab,,0,接连,,on end,,,jiē lián
+vocab,,0,阶层,,hierarchy,,,jiē céng
+vocab,,0,揭发,,to expose,,,jiē fā
+vocab,,0,揭露,,to expose,,,jiē lù
+vocab,,0,节奏,,rhythm,,,jié zòu
+vocab,,0,杰出,,outstanding,,,jié chū
+vocab,,0,结晶,,crystallization,,,jié jīng
+vocab,,0,结局,,conclusion,,,jié jú
+vocab,,0,结算,,to settle a bill,,,jié suàn
+vocab,,0,竭尽全力,,to spare no effort (idiom); to do one's utmost,,,jié jìn quán lì
+vocab,,0,截至,,up to (a time),,,jié zhì
+vocab,,0,解除,,to remove,,,jiě chú
+vocab,,0,解雇,,to fire,,,jiě gù
+vocab,,0,解剖,,to dissect (an animal),,,jiě pōu
+vocab,,0,解散,,to dissolve,,,jiě sàn
+vocab,,0,解体,,to break up into components,,,jiě tǐ
+vocab,,0,借鉴,,to use other people's experience,,,jiè jiàn
+vocab,,0,借助,,to draw support from,,,jiè zhù
+vocab,,0,戒备,,to take precautions,,,jiè bèi
+vocab,,0,界限,,boundary,,,jiè xiàn
+vocab,,0,津津有味,,with keen interest pleasure (idiom); with gusto,,,jīn jīn yǒu wèi
+vocab,,0,金融,,banking,,,jīn róng
+vocab,,0,紧密,,inseparably close,,,jǐn mì
+vocab,,0,紧迫,,pressing,,,jǐn pò
+vocab,,0,尽快,,as quickly as possible,,,jǐn kuài
+vocab,,0,锦绣前程,,bright future,,,jǐn xiù qián chéng
+vocab,,0,进而,,and then (what follows next),,,jìn ér
+vocab,,0,进攻,,to attack,,,jìn gōng
+vocab,,0,进化,,evolution,,,jìn huà
+vocab,,0,进展,,to make headway,,,jìn zhǎn
+vocab,,0,近来,,recently,,,jìn lái
+vocab,,0,近视,,shortsighted,,,jìn shì
+vocab,,0,浸泡,,to steep,,,jìn pào
+vocab,,0,晋升,,to promote to a higher position,,,jìn shēng
+vocab,,0,劲头,,enthusiasm,,,jìn tóu
+vocab,,0,茎,,stalk,,,jīng
+vocab,,0,精打细算,,(saying) meticulous planning and careful accounting,,,jīng dǎ xì suàn
+vocab,,0,精华,,best feature,,,jīng huá
+vocab,,0,精简,,to simplify,,,jīng jiǎn
+vocab,,0,精密,,accuracy,,,jīng mì
+vocab,,0,精确,,accurate,,,jīng què
+vocab,,0,精通,,proficient,,,jīng tōng
+vocab,,0,精心,,with utmost care,,,jīng xīn
+vocab,,0,精益求精,,to perfect sth that is already outstanding (idiom); constantly improving,,,jīng yì qiú jīng
+vocab,,0,精致,,delicate,,,jīng zhì
+vocab,,0,经费,,funds,,,jīng fèi
+vocab,,0,经商,,to trade,,,jīng shāng
+vocab,,0,经纬,,warp and woof,,,jīng wěi
+vocab,,0,惊动,,alarm,,,jīng dòng
+vocab,,0,惊奇,,to be amazed,,,jīng qí
+vocab,,0,惊讶,,amazed,,,jīng yà
+vocab,,0,兢兢业业,,cautious and conscientious,,,jīng jīng yè yè
+vocab,,0,井,,a well,,,jǐng
+vocab,,0,警告,,to warn,,,jǐng gào
+vocab,,0,警惕,,to be on the alert,,,jǐng tì
+vocab,,0,颈椎,,cervical vertebra,,,jǐng zhuī
+vocab,,0,敬礼,,to salute,,,jìng lǐ
+vocab,,0,境界,,boundary,,,jìng jiè
+vocab,,0,竞赛,,race,,,jìng sài
+vocab,,0,竞选,,to take part in an election,,,jìng xuǎn
+vocab,,0,镜头,,camera lens,,,jìng tóu
+vocab,,0,纠纷,,a dispute,,,jiū fēn
+vocab,,0,纠正,,to correct,,,jiū zhèng
+vocab,,0,酒精,,alcohol,,,jiǔ jīng
+vocab,,0,救济,,emergency relief,,,jiù jì
+vocab,,0,就近,,nearby,,,jiù jìn
+vocab,,0,就业,,looking for employment,,,jiù yè
+vocab,,0,就职,,to take office,,,jiù zhí
+vocab,,0,鞠躬,,to bow,,,jū gōng
+vocab,,0,拘留,,to detain (a prisoner),,,jū liú
+vocab,,0,拘束,,to restrict,,,jū shù
+vocab,,0,居住,,to reside,,,jū zhù
+vocab,,0,局部,,part,,,jú bù
+vocab,,0,局面,,aspect,,,jú miàn
+vocab,,0,局势,,situation,,,jú shì
+vocab,,0,局限,,to limit,,,jú xiàn
+vocab,,0,举动,,act,,,jǔ dòng
+vocab,,0,举世闻名,,(saying) world famous,,,jǔ shì wén míng
+vocab,,0,举世瞩目,,to receive worldwide attention,,,jǔ shì zhǔ mù
+vocab,,0,举足轻重,,a foot's move sways the balance (idiom); to hold the balance of power,,,jǔ zú qīng zhòng
+vocab,,0,咀嚼,,to chew,,,jǔ jué
+vocab,,0,沮丧,,dispirited,,,jǔ sàng
+vocab,,0,剧本,,script for play,,,jù běn
+vocab,,0,剧烈,,violent,,,jù liè
+vocab,,0,聚精会神,,to concentrate one's attention (idiom),,,jù jīng huì shén
+vocab,,0,据悉,,according to reports,,,jù xī
+vocab,,0,决策,,strategic decision,,,jué cè
+vocab,,0,觉悟,,consciousness,,,jué wù
+vocab,,0,觉醒,,to awaken,,,jué xǐng
+vocab,,0,绝望,,desperation,,,jué wàng
+vocab,,0,军队,,army troops,,,jūn duì
+vocab,,0,卡通,,cartoon,,,kǎ tōng
+vocab,,0,开采,,to extract (ore or other resource from a mine),,,kāi cǎi
+vocab,,0,开除,,to expel,,,kāi chú
+vocab,,0,开阔,,wide,,,kāi kuò
+vocab,,0,开朗,,spacious and well-lit,,,kāi lǎng
+vocab,,0,开明,,enlightened,,,kāi míng
+vocab,,0,开辟,,to open up,,,kāi pì
+vocab,,0,开水,,boiled water,,,kāi shuǐ
+vocab,,0,开拓,,to break new ground (for agriculture),,,kāi tuò
+vocab,,0,开展,,(begin to) develop,,,kāi zhǎn
+vocab,,0,开支,,expenditures,,,kāi zhī
+vocab,,0,刊登,,to carry a story,,,kān dēng
+vocab,,0,刊物,,publication,,,kān wù
+vocab,,0,勘探,,exploration,,,kān tàn
+vocab,,0,看待,,to look upon,,,kàn dài
+vocab,,0,看望,,to visit,,,kàn wàng
+vocab,,0,慷慨,,vehement,,,kāng kǎi
+vocab,,0,扛,,to carry on one's shoulder,,,káng
+vocab,,0,考察,,to inspect,,,kǎo chá
+vocab,,0,考古,,archaeology,,,kǎo gǔ
+vocab,,0,考核,,to examine,,,kǎo hé
+vocab,,0,考验,,to test,,,kǎo yàn
+vocab,,0,靠拢,,to draw close to,,,kào lǒng
+vocab,,0,磕,,to tap,,,kē
+vocab,,0,颗粒,,kernel,,,kē lì
+vocab,,0,科目,,subject,,,kē mù
+vocab,,0,渴望,,to thirst for,,,kě wàng
+vocab,,0,可观,,considerable,,,kě guān
+vocab,,0,可口,,tasty,,,kě kǒu
+vocab,,0,可恶,,repulsive,,,kě wù
+vocab,,0,可笑,,funny,,,kě xiào
+vocab,,0,可行,,feasible,,,kě xíng
+vocab,,0,刻不容缓,,to brook no delay,,,kè bù róng huǎn
+vocab,,0,课题,,task,,,kè tí
+vocab,,0,客户,,client,,,kè hù
+vocab,,0,啃,,to gnaw,,,kěn
+vocab,,0,恳切,,earnest,,,kěn qiè
+vocab,,0,坑,,hole,,,kēng
+vocab,,0,空洞,,cavity,,,kōng dòng
+vocab,,0,空前绝后,,unprecedented and never to be duplicated,,,kōng qián jué hòu
+vocab,,0,空想,,daydream,,,kōng xiǎng
+vocab,,0,空虚,,hollow,,,kōng xū
+vocab,,0,孔,,hole,,,kǒng
+vocab,,0,恐吓,,to threaten,,,kǒng hè
+vocab,,0,恐惧,,fear,,,kǒng jù
+vocab,,0,空白,,blank space,,,kòng bái
+vocab,,0,空隙,,crack,,,kòng xì
+vocab,,0,口气,,tone of voice,,,kǒu qì
+vocab,,0,口腔,,oral cavity,,,kǒu qiāng
+vocab,,0,口头,,oral,,,kǒu tóu
+vocab,,0,口音,,oral speech sounds (linguistics),,,kǒu yīn
+vocab,,0,枯竭,,used up,,,kū jié
+vocab,,0,枯燥,,dry and dull,,,kū zào
+vocab,,0,苦尽甘来,,bitterness finishes,,,kǔ jìn gān lái
+vocab,,0,挎,,to carry (esp. slung over the arm,,,kuà
+vocab,,0,跨,,to step across,,,kuà
+vocab,,0,快活,,happy,,,kuài huo
+vocab,,0,宽敞,,spacious,,,kuān chang
+vocab,,0,款待,,to entertain,,,kuǎn dài
+vocab,,0,款式,,pattern,,,kuǎn shì
+vocab,,0,筐,,basket,,,kuāng
+vocab,,0,旷课,,to play truant,,,kuàng kè
+vocab,,0,框架,,frame,,,kuàng jià
+vocab,,0,况且,,moreover,,,kuàng qiě
+vocab,,0,亏待,,to treat sb unfairly,,,kuī dài
+vocab,,0,亏损,,deficit,,,kuī sǔn
+vocab,,0,昆虫,,insect,,,kūn chóng
+vocab,,0,捆绑,,to bind,,,kǔn bǎng
+vocab,,0,扩充,,to expand,,,kuò chōng
+vocab,,0,扩散,,to spread,,,kuò sàn
+vocab,,0,扩张,,expansion,,,kuò zhāng
+vocab,,0,喇叭,,horn (automobile etc),,,lǎ ba
+vocab,,0,啦,,sentence-final particle,,,la
+vocab,,0,来历,,history,,,lái lì
+vocab,,0,来源,,source (of information etc),,,lái yuán
+vocab,,0,栏目,,regular column or segment (in a publication or broadcast program),,,lán mù
+vocab,,0,懒惰,,idle,,,lǎn duò
+vocab,,0,狼狈,,in a difficult situation,,,láng bèi
+vocab,,0,朗读,,read aloud,,,lǎng dú
+vocab,,0,捞,,to fish up,,,lāo
+vocab,,0,唠叨,,to prattle,,,láo dao
+vocab,,0,牢固,,firm,,,láo gù
+vocab,,0,牢骚,,discontent,,,láo sāo
+vocab,,0,乐趣,,delight,,,lè qù
+vocab,,0,乐意,,to be willing to do sth,,,lè yì
+vocab,,0,雷达,,radar (loanword),,,léi dá
+vocab,,0,类似,,similar,,,lèi sì
+vocab,,0,冷淡,,cold,,,lěng dàn
+vocab,,0,冷酷,,grim,,,lěng kù
+vocab,,0,冷却,,to cool off,,,lěng què
+vocab,,0,愣,,to look distracted,,,lèng
+vocab,,0,黎明,,dawn,,,lí míng
+vocab,,0,里程碑,,milestone,,,lǐ chéng bēi
+vocab,,0,礼节,,etiquette,,,lǐ jié
+vocab,,0,理睬,,to heed,,,lǐ cǎi
+vocab,,0,理所当然,,as it should be by rights (idiom); proper and to be expected as a matter of course,,,lǐ suǒ dāng rán
+vocab,,0,理直气壮,,in the right and self-confident (idiom); bold and confident with justice on one's side,,,lǐ zhí qì zhuàng
+vocab,,0,理智,,reason,,,lǐ zhì
+vocab,,0,立场,,position,,,lì chǎng
+vocab,,0,立交桥,,overpass,,,lì jiāo qiáo
+vocab,,0,立体,,three-dimensional,,,lì tǐ
+vocab,,0,立足,,to stand,,,lì zú
+vocab,,0,历代,,successive generations,,,lì dài
+vocab,,0,历来,,always,,,lì lái
+vocab,,0,利害,,pros and cons,,,lì hài
+vocab,,0,利率,,interest rates,,,lì lǜ
+vocab,,0,力所能及,,as far as one's capabilities extend (idiom); to the best of one's ability,,,lì suǒ néng jí
+vocab,,0,力图,,to try hard to,,,lì tú
+vocab,,0,力争,,to work hard for,,,lì zhēng
+vocab,,0,例外,,(make an) exception,,,lì wài
+vocab,,0,连年,,successive years,,,lián nián
+vocab,,0,连锁,,to interlock,,,lián suǒ
+vocab,,0,连同,,together with,,,lián tóng
+vocab,,0,联欢,,have a get-together,,,lián huān
+vocab,,0,联络,,communication,,,lián luò
+vocab,,0,联盟,,alliance,,,lián méng
+vocab,,0,联想,,to associate (cognitively),,,lián xiǎng
+vocab,,0,廉洁,,honest,,,lián jié
+vocab,,0,良心,,conscience,,,liáng xīn
+vocab,,0,晾,,to dry in the air,,,liàng
+vocab,,0,谅解,,to understand,,,liàng jiě
+vocab,,0,辽阔,,vast,,,liáo kuò
+vocab,,0,列举,,a list,,,liè jǔ
+vocab,,0,淋,,to drain,,,lín
+vocab,,0,临床,,clinical,,,lín chuáng
+vocab,,0,吝啬,,stingy,,,lìn sè
+vocab,,0,零星,,fragmentary,,,líng xīng
+vocab,,0,凌晨,,very early in the morning,,,líng chén
+vocab,,0,灵感,,inspiration,,,líng gǎn
+vocab,,0,灵魂,,soul,,,líng hún
+vocab,,0,灵敏,,smart,,,líng mǐn
+vocab,,0,伶俐,,clever,,,líng lì
+vocab,,0,领会,,to understand,,,lǐng huì
+vocab,,0,领事馆,,consulate,,,lǐng shì guǎn
+vocab,,0,领土,,territory,,,lǐng tǔ
+vocab,,0,领悟,,to understand,,,lǐng wù
+vocab,,0,领先,,to lead,,,lǐng xiān
+vocab,,0,领袖,,leader,,,lǐng xiù
+vocab,,0,溜,,to slip away,,,liū
+vocab,,0,留恋,,reluctant to leave,,,liú liàn
+vocab,,0,留念,,to keep as a souvenir,,,liú niàn
+vocab,,0,留神,,to take care,,,liú shén
+vocab,,0,流浪,,to drift about,,,liú làng
+vocab,,0,流露,,to express,,,liú lù
+vocab,,0,流氓,,rogue,,,liú máng
+vocab,,0,流通,,to circulate,,,liú tōng
+vocab,,0,聋哑,,deaf and dumb,,,lóng yǎ
+vocab,,0,隆重,,grand,,,lóng zhòng
+vocab,,0,垄断,,to enjoy market dominance,,,lǒng duàn
+vocab,,0,笼罩,,to envelop,,,lǒng zhào
+vocab,,0,搂,,to hug,,,lǒu
+vocab,,0,炉灶,,stove,,,lú zào
+vocab,,0,轮船,,steamship,,,lún chuán
+vocab,,0,轮廓,,an outline,,,lún kuò
+vocab,,0,轮胎,,tire,,,lún tāi
+vocab,,0,论坛,,forum (for discussion),,,lùn tán
+vocab,,0,论证,,to prove a point,,,lùn zhèng
+vocab,,0,啰唆,,see 囉嗦|啰嗦[luō suo],,,luō suō
+vocab,,0,螺丝钉,,screw,,,luó sī dīng
+vocab,,0,落成,,to complete a construction project,,,luò chéng
+vocab,,0,落实,,practical,,,luò shí
+vocab,,0,络绎不绝,,continuously; in an endless stream (idiom),,,luò yì bù jué
+vocab,,0,屡次,,repeatedly,,,lǚ cì
+vocab,,0,履行,,to fulfill (one's obligations),,,lǚ xíng
+vocab,,0,掠夺,,to plunder,,,lvè duó
+vocab,,0,略微,,a little bit,,,lvè wēi
+vocab,,0,麻痹,,paralysis,,,má bì
+vocab,,0,麻木,,numb,,,má mù
+vocab,,0,麻醉,,anesthesia,,,má zuì
+vocab,,0,码头,,dock,,,mǎ tóu
+vocab,,0,嘛,,modal particle indicating that sth is obvious,,,ma
+vocab,,0,埋伏,,to ambush,,,mái fú
+vocab,,0,埋没,,to engulf,,,mái mò
+vocab,,0,埋葬,,to bury,,,mái zàng
+vocab,,0,迈,,take a step,,,mài
+vocab,,0,脉搏,,a pulse (both medical and figurative),,,mài bó
+vocab,,0,埋怨,,to complain,,,mán yuàn
+vocab,,0,慢性,,slow and patient,,,màn xìng
+vocab,,0,漫长,,very long,,,màn cháng
+vocab,,0,漫画,,caricature,,,màn huà
+vocab,,0,蔓延,,to extend,,,màn yán
+vocab,,0,忙碌,,busy,,,máng lù
+vocab,,0,茫茫,,boundless,,,máng máng
+vocab,,0,茫然,,blankly,,,máng rán
+vocab,,0,盲目,,blind,,,máng mù
+vocab,,0,冒充,,to feign,,,mào chōng
+vocab,,0,茂盛,,lush,,,mào shèng
+vocab,,0,枚,,classifier for coins,,,méi
+vocab,,0,没辙,,(idiom) unable to solve; no way to escape a problem,,,méi zhé
+vocab,,0,媒介,,media,,,méi jiè
+vocab,,0,媒体,,media,,,méi tǐ
+vocab,,0,美观,,pleasing to the eye,,,měi guān
+vocab,,0,美满,,happy,,,měi mǎn
+vocab,,0,美妙,,beautiful,,,měi miào
+vocab,,0,门诊,,outpatient service,,,mén zhěn
+vocab,,0,蒙,,to cover,,,méng
+vocab,,0,萌芽,,sprout,,,méng yá
+vocab,,0,猛烈,,fierce,,,měng liè
+vocab,,0,梦想,,(figuratively) to dream of,,,mèng xiǎng
+vocab,,0,眯,,to narrow one's eyes,,,mī
+vocab,,0,弥补,,to complement,,,mí bǔ
+vocab,,0,弥漫,,variant of 彌漫|弥漫[mí màn],,,mí màn
+vocab,,0,迷惑,,to puzzle,,,mí huo
+vocab,,0,迷人,,fascinating,,,mí rén
+vocab,,0,迷失,,lost,,,mí shī
+vocab,,0,迷信,,superstition,,,mí xìn
+vocab,,0,密度,,density,,,mì dù
+vocab,,0,密封,,to seal up,,,mì fēng
+vocab,,0,免得,,so as not to,,,miǎn de
+vocab,,0,免疫,,immunity (to disease),,,miǎn yì
+vocab,,0,勉励,,to encourage,,,miǎn lì
+vocab,,0,勉强,,to do with difficulty,,,miǎn qiǎng
+vocab,,0,面貌,,appearance,,,miàn mào
+vocab,,0,面子,,outer surface,,,miàn zi
+vocab,,0,描绘,,to describe,,,miáo huì
+vocab,,0,渺小,,minute,,,miǎo xiǎo
+vocab,,0,蔑视,,to loathe,,,miè shì
+vocab,,0,灭亡,,to be destroyed,,,miè wáng
+vocab,,0,民间,,among the people,,,mín jiān
+vocab,,0,民用,,(for) civilian use,,,mín yòng
+vocab,,0,敏感,,sensitive,,,mǐn gǎn
+vocab,,0,敏捷,,nimble,,,mǐn jié
+vocab,,0,敏锐,,keen,,,mǐn ruì
+vocab,,0,明明,,obviously,,,míng míng
+vocab,,0,名次,,position in a ranking of names,,,míng cì
+vocab,,0,名额,,quota,,,míng é
+vocab,,0,名副其实,,not just in name only,,,míng fù qí shí
+vocab,,0,名誉,,fame,,,míng yù
+vocab,,0,命名,,to give a name to,,,mìng míng
+vocab,,0,摸索,,to feel about,,,mō suo
+vocab,,0,膜,,membrane,,,mó
+vocab,,0,摩擦,,friction,,,mó cā
+vocab,,0,磨合,,to break in,,,mó hé
+vocab,,0,模范,,model,,,mó fàn
+vocab,,0,模式,,mode,,,mó shì
+vocab,,0,模型,,model,,,mó xíng
+vocab,,0,魔鬼,,devil,,,mó guǐ
+vocab,,0,魔术,,magic,,,mó shù
+vocab,,0,抹杀,,to erase,,,mǒ shā
+vocab,,0,莫名其妙,,unfathomable mystery (idiom); subtle and ineffable,,,mò míng qí miào
+vocab,,0,默默,,in silence,,,mò mò
+vocab,,0,墨水儿,,erhua variant of 墨水,,,mò shuǐ r
+vocab,,0,谋求,,to seek,,,móu qiú
+vocab,,0,模样,,look,,,mú yàng
+vocab,,0,母语,,native language,,,mǔ yǔ
+vocab,,0,目睹,,to witness,,,mù dǔ
+vocab,,0,目光,,sight,,,mù guāng
+vocab,,0,沐浴,,to take a bath,,,mù yù
+vocab,,0,拿手,,expert in,,,ná shǒu
+vocab,,0,纳闷儿,,puzzled,,,nà mèn r
+vocab,,0,耐用,,durable,,,nài yòng
+vocab,,0,难得,,seldom,,,nán dé
+vocab,,0,难堪,,hard to take,,,nán kān
+vocab,,0,难免,,hard to avoid,,,nán miǎn
+vocab,,0,难能可贵,,rare and precious,,,nán néng kě guì
+vocab,,0,恼火,,to get angry,,,nǎo huǒ
+vocab,,0,内涵,,meaning,,,nèi hán
+vocab,,0,内幕,,inside story,,,nèi mù
+vocab,,0,内在,,intrinsic,,,nèi zài
+vocab,,0,能量,,energy,,,néng liàng
+vocab,,0,嗯,,interjection indicating approval,,,en
+vocab,,0,拟定,,to draw up,,,nǐ dìng
+vocab,,0,年度,,year (e.g. school year,,,nián dù
+vocab,,0,捏,,to pinch (with one's fingers),,,niē
+vocab,,0,拧,,to pinch,,,níng
+vocab,,0,凝固,,to freeze,,,níng gù
+vocab,,0,凝聚,,to condense,,,níng jù
+vocab,,0,凝视,,to gaze at,,,níng shì
+vocab,,0,宁肯,,would rather...,,,nìng kěn
+vocab,,0,宁愿,,would rather,,,nìng yuàn
+vocab,,0,纽扣儿,,Buttons children,,,niǔ kòu ér
+vocab,,0,扭转,,to reverse,,,niǔ zhuǎn
+vocab,,0,浓厚,,dense,,,nóng hòu
+vocab,,0,农历,,the traditional Chinese calendar,,,nóng lì
+vocab,,0,奴隶,,slave,,,nú lì
+vocab,,0,挪,,to shift,,,nuó
+vocab,,0,虐待,,to mistreat,,,nvè dài
+vocab,,0,哦,,oh (interjection indicating that one has just learned sth),,,ò
+vocab,,0,殴打,,to beat up,,,ōu dǎ
+vocab,,0,欧洲,,Europe,,,Oū zhōu
+vocab,,0,呕吐,,to vomit,,,ǒu tù
+vocab,,0,趴,,to lie on one's stomach,,,pā
+vocab,,0,排斥,,to reject,,,pái chì
+vocab,,0,排除,,to eliminate,,,pái chú
+vocab,,0,排放,,emission,,,pái fàng
+vocab,,0,徘徊,,to dither,,,pái huái
+vocab,,0,派别,,denomination,,,pài bié
+vocab,,0,派遣,,to send (on a mission),,,pài qiǎn
+vocab,,0,攀登,,to climb,,,pān dēng
+vocab,,0,盘旋,,to spiral,,,pán xuán
+vocab,,0,畔,,bank,,,pàn
+vocab,,0,判决,,judgment (by a court of law),,,pàn jué
+vocab,,0,庞大,,huge,,,páng dà
+vocab,,0,抛弃,,to abandon,,,pāo qì
+vocab,,0,泡沫,,foam,,,pào mò
+vocab,,0,培训,,to cultivate,,,péi xùn
+vocab,,0,培育,,to train,,,péi yù
+vocab,,0,配备,,to allocate,,,pèi bèi
+vocab,,0,配偶,,consort,,,pèi ǒu
+vocab,,0,配套,,to form a complete set,,,pèi tào
+vocab,,0,盆地,,basin (low-lying geographical feature),,,pén dì
+vocab,,0,烹饪,,cooking,,,pēng rèn
+vocab,,0,捧,,to clasp,,,pěng
+vocab,,0,劈,,to hack,,,pī
+vocab,,0,批发,,wholesale,,,pī fā
+vocab,,0,批判,,to criticize,,,pī pàn
+vocab,,0,疲惫,,beaten,,,pí bèi
+vocab,,0,疲倦,,to tire,,,pí juàn
+vocab,,0,皮革,,leather,,,pí gé
+vocab,,0,屁股,,buttocks,,,pì gu
+vocab,,0,譬如,,for example,,,pì rú
+vocab,,0,偏差,,bias,,,piān chā
+vocab,,0,偏见,,prejudice,,,piān jiàn
+vocab,,0,偏僻,,remote,,,piān pì
+vocab,,0,偏偏,,sth turns out just the opposite of what one would expect,,,piān piān
+vocab,,0,片断,,section,,,piàn duàn
+vocab,,0,片刻,,short period of time,,,piàn kè
+vocab,,0,飘扬,,to wave,,,piāo yáng
+vocab,,0,漂浮,,to float,,,piāo fú
+vocab,,0,拼搏,,to struggle,,,pīn bó
+vocab,,0,拼命,,to do one's utmost,,,pīn mìng
+vocab,,0,频繁,,frequently,,,pín fán
+vocab,,0,频率,,frequency,,,pín lǜ
+vocab,,0,贫乏,,lack,,,pín fá
+vocab,,0,贫困,,impoverished,,,pín kùn
+vocab,,0,品尝,,to taste a small amount,,,pǐn cháng
+vocab,,0,品德,,moral character,,,pǐn dé
+vocab,,0,品行,,behavior,,,pǐn xíng
+vocab,,0,品质,,quality,,,pǐn zhì
+vocab,,0,平凡,,commonplace,,,píng fán
+vocab,,0,平面,,plane (flat surface),,,píng miàn
+vocab,,0,平坦,,level,,,píng tǎn
+vocab,,0,平行,,parallel,,,píng xíng
+vocab,,0,平原,,field,,,píng yuán
+vocab,,0,评估,,to evaluate,,,píng gū
+vocab,,0,评论,,to comment on,,,píng lùn
+vocab,,0,屏障,,protective screen,,,píng zhàng
+vocab,,0,坡,,slope,,,pō
+vocab,,0,泼,,to splash,,,pō
+vocab,,0,颇,,rather,,,pō
+vocab,,0,破例,,to make an exception,,,pò lì
+vocab,,0,迫不及待,,impatient (idiom); in a hurry,,,pò bù jí dài
+vocab,,0,迫害,,to persecute,,,pò hài
+vocab,,0,魄力,,courage,,,pò lì
+vocab,,0,扑,,to throw oneself at,,,pū
+vocab,,0,铺,,to spread,,,pū
+vocab,,0,普及,,popular,,,pǔ jí
+vocab,,0,朴实,,plain,,,pǔ shí
+vocab,,0,瀑布,,waterfall,,,pù bù
+vocab,,0,期望,,to have expectations,,,qī wàng
+vocab,,0,期限,,time limit,,,qī xiàn
+vocab,,0,欺负,,to bully,,,qī fu
+vocab,,0,欺骗,,to deceive,,,qī piàn
+vocab,,0,凄凉,,desolate,,,qī liáng
+vocab,,0,奇妙,,fantastic,,,qí miào
+vocab,,0,旗袍,,Chinese-style dress,,,qí páo
+vocab,,0,旗帜,,ensign,,,qí zhì
+vocab,,0,齐全,,complete,,,qí quán
+vocab,,0,齐心协力,,to work with a common purpose (idiom); to make concerted efforts,,,qí xīn xié lì
+vocab,,0,歧视,,to discriminate against,,,qí shì
+vocab,,0,起草,,draft (a bill),,,qǐ cǎo
+vocab,,0,起初,,originally,,,qǐ chū
+vocab,,0,起伏,,to move up and down,,,qǐ fú
+vocab,,0,起哄,,to heckle,,,qǐ hòng
+vocab,,0,起码,,at the minimum,,,qǐ mǎ
+vocab,,0,起义,,uprising,,,qǐ yì
+vocab,,0,起源,,origin,,,qǐ yuán
+vocab,,0,启程,,to set out on a journey,,,qǐ chéng
+vocab,,0,启示,,enlightenment,,,qǐ shì
+vocab,,0,启事,,announcement (written,,,qǐ shì
+vocab,,0,乞丐,,beggar,,,qǐ gài
+vocab,,0,岂有此理,,how can this be so? (idiom); preposterous,,,qǐ yǒu cǐ lǐ
+vocab,,0,器材,,equipment,,,qì cái
+vocab,,0,器官,,organ (part of body tissue),,,qì guān
+vocab,,0,气概,,lofty quality,,,qì gài
+vocab,,0,气功,,qigong,,,qì gōng
+vocab,,0,气魄,,spirit,,,qì pò
+vocab,,0,气色,,complexion,,,qì sè
+vocab,,0,气势,,imposing manner,,,qì shì
+vocab,,0,气味,,odor,,,qì wèi
+vocab,,0,气象,,meteorological feature,,,qì xiàng
+vocab,,0,气压,,atmospheric pressure,,,qì yā
+vocab,,0,迄今为止,,so far,,,qì jīn wéi zhǐ
+vocab,,0,掐,,to pick (flowers),,,qiā
+vocab,,0,恰当,,appropriate,,,qià dàng
+vocab,,0,恰到好处,,it's just perfect,,,qià dào hǎo chù
+vocab,,0,恰巧,,fortunately,,,qià qiǎo
+vocab,,0,洽谈,,to discuss,,,qià tán
+vocab,,0,牵扯,,to involve,,,qiān chě
+vocab,,0,牵制,,to control,,,qiān zhì
+vocab,,0,千方百计,,lit. thousand ways,,,qiān fāng bǎi jì
+vocab,,0,签订,,to agree to and sign (a treaty etc),,,qiān dìng
+vocab,,0,签署,,to sign (an agreement),,,qiān shǔ
+vocab,,0,迁就,,to yield,,,qiān jiù
+vocab,,0,迁徙,,to migrate,,,qiān xǐ
+vocab,,0,谦逊,,humble,,,qiān xùn
+vocab,,0,前景,,foreground,,,qián jǐng
+vocab,,0,前提,,premise,,,qián tí
+vocab,,0,潜力,,potential,,,qián lì
+vocab,,0,潜水,,to dive,,,qián shuǐ
+vocab,,0,潜移默化,,imperceptible influence,,,qián yí mò huà
+vocab,,0,谴责,,to denounce,,,qiǎn zé
+vocab,,0,强制,,to enforce,,,qiáng zhì
+vocab,,0,抢劫,,to rob,,,qiǎng jié
+vocab,,0,抢救,,rescue,,,qiǎng jiù
+vocab,,0,强迫,,to compel,,,qiǎng pò
+vocab,,0,桥梁,,bridge,,,qiáo liáng
+vocab,,0,翘,,to stick up,,,qiào
+vocab,,0,锲而不舍,,to chip away at a task and not abandon it (idiom); to chisel away at sth,,,qiè ér bù shě
+vocab,,0,切实,,feasible,,,qiè shí
+vocab,,0,亲热,,affectionate,,,qīn rè
+vocab,,0,亲身,,personal,,,qīn shēn
+vocab,,0,侵犯,,to infringe on,,,qīn fàn
+vocab,,0,钦佩,,to admire,,,qīn pèi
+vocab,,0,勤俭,,hardworking and frugal,,,qín jiǎn
+vocab,,0,勤恳,,diligent and attentive,,,qín kěn
+vocab,,0,氢,,hydrogen (chemistry),,,qīng
+vocab,,0,轻而易举,,easy,,,qīng ér yì jǔ
+vocab,,0,清澈,,clear,,,qīng chè
+vocab,,0,清晨,,early morning,,,qīng chén
+vocab,,0,清除,,to eliminate,,,qīng chú
+vocab,,0,清洁,,clean,,,qīng jié
+vocab,,0,清理,,to clear up,,,qīng lǐ
+vocab,,0,清晰,,clear,,,qīng xī
+vocab,,0,清醒,,clear-headed,,,qīng xǐng
+vocab,,0,清真,,Islamic,,,qīng zhēn
+vocab,,0,倾听,,to listen attentively,,,qīng tīng
+vocab,,0,倾向,,trend,,,qīng xiàng
+vocab,,0,倾斜,,to incline,,,qīng xié
+vocab,,0,晴朗,,sunny and cloudless,,,qíng lǎng
+vocab,,0,情报,,(spy) intelligence,,,qíng bào
+vocab,,0,情节,,plot,,,qíng jié
+vocab,,0,情理,,reason,,,qíng lǐ
+vocab,,0,情形,,circumstances,,,qíng xing
+vocab,,0,请柬,,invitation card,,,qǐng jiǎn
+vocab,,0,请教,,to ask for guidance,,,qǐng jiào
+vocab,,0,请示,,to ask for instructions,,,qǐng shì
+vocab,,0,请帖,,invitation card,,,qǐng tiě
+vocab,,0,丘陵,,hills,,,qiū líng
+vocab,,0,区分,,to differentiate,,,qū fēn
+vocab,,0,区域,,area,,,qū yù
+vocab,,0,屈服,,to surrender,,,qū fú
+vocab,,0,曲折,,complicated,,,qū zhé
+vocab,,0,驱逐,,to expel,,,qū zhú
+vocab,,0,渠道,,irrigation ditch,,,qú dào
+vocab,,0,取缔,,to ban,,,qǔ dì
+vocab,,0,曲子,,poem for singing,,,qǔ zi
+vocab,,0,趣味,,fun,,,qù wèi
+vocab,,0,圈套,,trap,,,quān tào
+vocab,,0,全局,,overall situation,,,quán jú
+vocab,,0,全力以赴,,to do at all costs,,,quán lì yǐ fù
+vocab,,0,权衡,,to weigh,,,quán héng
+vocab,,0,权威,,authority,,,quán wēi
+vocab,,0,权益,,rights and benefits,,,quán yì
+vocab,,0,拳头,,fist,,,quán tou
+vocab,,0,犬,,dog,,,quǎn
+vocab,,0,缺口,,nick,,,quē kǒu
+vocab,,0,缺席,,absence,,,quē xí
+vocab,,0,缺陷,,defect,,,quē xiàn
+vocab,,0,瘸,,lame,,,qué
+vocab,,0,确保,,to ensure,,,què bǎo
+vocab,,0,确立,,to establish,,,què lì
+vocab,,0,确切,,definite,,,què qiè
+vocab,,0,确信,,to be convinced,,,què xìn
+vocab,,0,群众,,mass,,,qún zhòng
+vocab,,0,染,,to dye,,,rǎn
+vocab,,0,让步,,to concede,,,ràng bù
+vocab,,0,饶恕,,to forgive,,,ráo shù
+vocab,,0,扰乱,,to disturb,,,rǎo luàn
+vocab,,0,惹祸,,stirring up trouble,,,rě huò
+vocab,,0,热泪盈眶,,eyes brimming with tears of excitement (idiom),,,rè lèi yíng kuàng
+vocab,,0,热门,,popular,,,rè mén
+vocab,,0,人道,,human sympathy,,,rén dào
+vocab,,0,人格,,personality,,,rén gé
+vocab,,0,人工,,artificial,,,rén gōng
+vocab,,0,人家,,other people,,,rén jia
+vocab,,0,人间,,the human world,,,rén jiān
+vocab,,0,人士,,person,,,rén shì
+vocab,,0,人为,,artificial,,,rén wéi
+vocab,,0,人性,,human nature,,,rén xìng
+vocab,,0,人质,,hostage,,,rén zhì
+vocab,,0,仁慈,,benevolent,,,rén cí
+vocab,,0,忍耐,,to show restraint,,,rěn nài
+vocab,,0,忍受,,to bear,,,rěn shòu
+vocab,,0,认定,,to maintain (that sth is true),,,rèn dìng
+vocab,,0,认可,,to approve,,,rèn kě
+vocab,,0,任命,,to appoint and nominate,,,rèn mìng
+vocab,,0,任性,,willful,,,rèn xìng
+vocab,,0,任意,,arbitrary,,,rèn yì
+vocab,,0,任重道远,,a heavy load and a long road,,,rèn zhòng dào yuǎn
+vocab,,0,仍旧,,still (remaining),,,réng jiù
+vocab,,0,日新月异,,daily renewal,,,rì xīn yuè yì
+vocab,,0,日益,,day by day,,,rì yì
+vocab,,0,融洽,,harmonious,,,róng qià
+vocab,,0,溶解,,to dissolve,,,róng jiě
+vocab,,0,容貌,,one's appearance,,,róng mào
+vocab,,0,容纳,,to hold,,,róng nà
+vocab,,0,容器,,receptacle,,,róng qì
+vocab,,0,容忍,,to put up with,,,róng rěn
+vocab,,0,揉,,to knead,,,róu
+vocab,,0,柔和,,gentle,,,róu hé
+vocab,,0,弱点,,weak point,,,ruò diǎn
+vocab,,0,若干,,a certain number or amount,,,ruò gān
+vocab,,0,撒谎,,to tell lies,,,sā huǎng
+vocab,,0,腮,,cheek,,,sāi
+vocab,,0,三角,,triangle,,,sān jiǎo
+vocab,,0,散文,,prose,,,sǎn wén
+vocab,,0,散布,,to disseminate,,,sàn bù
+vocab,,0,散发,,to distribute,,,sàn fā
+vocab,,0,丧失,,to lose,,,sàng shī
+vocab,,0,嫂子,,(informal) older brother's wife,,,sǎo zi
+vocab,,0,色彩,,tint,,,sè cǎi
+vocab,,0,刹车,,to brake (when driving),,,shā chē
+vocab,,0,啥,,dialectal equivalent of 什麼|什么[shén me],,,shá
+vocab,,0,筛选,,to filter,,,shāi xuǎn
+vocab,,0,山脉,,mountain range,,,shān mài
+vocab,,0,闪烁,,flickering,,,shǎn shuò
+vocab,,0,擅长,,to be good at,,,shàn cháng
+vocab,,0,擅自,,without permission,,,shàn zì
+vocab,,0,商标,,trademark,,,shāng biāo
+vocab,,0,伤脑筋,,knotty,,,shāng nǎo jīn
+vocab,,0,上级,,higher authorities,,,shàng jí
+vocab,,0,上进心,,motivation,,,shàng jìn xīn
+vocab,,0,上任,,to take office,,,shàng rèn
+vocab,,0,上瘾,,to get into a habit,,,shàng yǐn
+vocab,,0,上游,,upper reaches (of a river),,,shàng yóu
+vocab,,0,捎,,to bring sth to sb,,,shāo
+vocab,,0,梢,,tip of branch,,,shāo
+vocab,,0,哨,,a whistle,,,shào
+vocab,,0,奢侈,,luxurious,,,shē chǐ
+vocab,,0,设立,,to set up,,,shè lì
+vocab,,0,设想,,to imagine,,,shè xiǎng
+vocab,,0,设置,,to set up,,,shè zhì
+vocab,,0,社区,,community,,,shè qū
+vocab,,0,涉及,,to involve,,,shè jí
+vocab,,0,摄取,,absorb (nutrition),,,shè qǔ
+vocab,,0,摄氏度,,degrees centigrade,,,shè shì dù
+vocab,,0,深奥,,profound,,,shēn ào
+vocab,,0,深沉,,deep,,,shēn chén
+vocab,,0,深情厚谊,,deep friendship,,,shēn qíng hòu yì
+vocab,,0,申报,,to report (to the authorities),,,shēn bào
+vocab,,0,绅士,,gentleman,,,shēn shì
+vocab,,0,呻吟,,to moan,,,shēn yín
+vocab,,0,神奇,,magical,,,shén qí
+vocab,,0,神气,,expression,,,shén qì
+vocab,,0,神情,,look,,,shén qíng
+vocab,,0,神色,,expression,,,shén sè
+vocab,,0,神圣,,divine,,,shén shèng
+vocab,,0,神态,,appearance,,,shén tài
+vocab,,0,神仙,,Daoist immortal,,,shén xiān
+vocab,,0,审查,,to examine,,,shěn chá
+vocab,,0,审理,,to hear (a case),,,shěn lǐ
+vocab,,0,审美,,esthetics,,,shěn měi
+vocab,,0,审判,,a trial,,,shěn pàn
+vocab,,0,渗透,,to permeate,,,shèn tòu
+vocab,,0,慎重,,cautious,,,shèn zhòng
+vocab,,0,生存,,to exist,,,shēng cún
+vocab,,0,生机,,opportunity to live,,,shēng jī
+vocab,,0,生理,,physiology,,,shēng lǐ
+vocab,,0,生疏,,unfamiliar,,,shēng shū
+vocab,,0,生态,,way of life,,,shēng tài
+vocab,,0,生物,,organism,,,shēng wù
+vocab,,0,生效,,to take effect,,,shēng xiào
+vocab,,0,生锈,,to rust,,,shēng xiù
+vocab,,0,生育,,to bear,,,shēng yù
+vocab,,0,牲畜,,domesticated animals,,,shēng chù
+vocab,,0,声明,,statement,,,shēng míng
+vocab,,0,声势,,fame and power,,,shēng shì
+vocab,,0,声誉,,reputation,,,shēng yù
+vocab,,0,省会,,provincial capital,,,shěng huì
+vocab,,0,盛产,,superabundant,,,shèng chǎn
+vocab,,0,盛开,,blooming,,,shèng kāi
+vocab,,0,盛情,,great kindness,,,shèng qíng
+vocab,,0,盛行,,to be in vogue,,,shèng xíng
+vocab,,0,胜负,,victory or defeat,,,shèng fù
+vocab,,0,失误,,lapse,,,shī wù
+vocab,,0,失踪,,to be missing,,,shī zōng
+vocab,,0,师范,,teacher-training,,,shī fàn
+vocab,,0,施加,,to exert (effort or pressure),,,shī jiā
+vocab,,0,施展,,to use fully,,,shī zhǎn
+vocab,,0,尸体,,dead body,,,shī tǐ
+vocab,,0,拾,,to pick up,,,shí
+vocab,,0,十足,,ample,,,shí zú
+vocab,,0,识别,,to distinguish,,,shí bié
+vocab,,0,时差,,time difference,,,shí chā
+vocab,,0,时常,,often,,,shí cháng
+vocab,,0,时而,,occasionally,,,shí ér
+vocab,,0,时光,,time,,,shí guāng
+vocab,,0,时机,,fortunate timing,,,shí jī
+vocab,,0,时事,,current trends,,,shí shì
+vocab,,0,时装,,the latest fashion in clothes,,,shí zhuāng
+vocab,,0,实惠,,tangible benefit,,,shí huì
+vocab,,0,实力,,strength,,,shí lì
+vocab,,0,实施,,to implement,,,shí shī
+vocab,,0,实事求是,,to seek truth from facts (idiom),,,shí shì qiú shì
+vocab,,0,实质,,substance,,,shí zhì
+vocab,,0,石油,,oil,,,shí yóu
+vocab,,0,使命,,mission (diplomatic or other),,,shǐ mìng
+vocab,,0,是非,,right and wrong,,,shì fēi
+vocab,,0,试图,,to attempt,,,shì tú
+vocab,,0,试验,,experiment,,,shì yàn
+vocab,,0,势必,,to be bound to,,,shì bì
+vocab,,0,势力,,power,,,shì li
+vocab,,0,世代,,generation,,,shì dài
+vocab,,0,世界观,,worldview,,,shì jiè guān
+vocab,,0,示范,,to demonstrate,,,shì fàn
+vocab,,0,示威,,to demonstrate (as a protest),,,shì wēi
+vocab,,0,示意,,to hint,,,shì yì
+vocab,,0,释放,,to release,,,shì fàng
+vocab,,0,事故,,accident,,,shì gù
+vocab,,0,事迹,,deed,,,shì jì
+vocab,,0,事件,,event,,,shì jiàn
+vocab,,0,事态,,situation,,,shì tài
+vocab,,0,事务,,(political,,,shì wù
+vocab,,0,事项,,matter,,,shì xiàng
+vocab,,0,事业,,undertaking,,,shì yè
+vocab,,0,适宜,,suitable,,,shì yí
+vocab,,0,视力,,vision,,,shì lì
+vocab,,0,视线,,line of sight,,,shì xiàn
+vocab,,0,视野,,field of view,,,shì yě
+vocab,,0,逝世,,to pass away,,,shì shì
+vocab,,0,收藏,,to hoard,,,shōu cáng
+vocab,,0,收缩,,to pull back,,,shōu suō
+vocab,,0,收益,,earnings,,,shōu yì
+vocab,,0,收音机,,radio,,,shōu yīn jī
+vocab,,0,手法,,technique,,,shǒu fǎ
+vocab,,0,手势,,gesture,,,shǒu shì
+vocab,,0,手艺,,craftmanship,,,shǒu yì
+vocab,,0,首要,,the most important,,,shǒu yào
+vocab,,0,守护,,to guard,,,shǒu hù
+vocab,,0,受罪,,to endure,,,shòu zuì
+vocab,,0,授予,,to award,,,shòu yǔ
+vocab,,0,书法,,calligraphy,,,shū fǎ
+vocab,,0,书籍,,books,,,shū jí
+vocab,,0,书记,,secretary,,,shū ji
+vocab,,0,书面,,in writing,,,shū miàn
+vocab,,0,舒畅,,happy,,,shū chàng
+vocab,,0,疏忽,,to neglect,,,shū hu
+vocab,,0,数,,to count,,,shǔ
+vocab,,0,竖,,to erect,,,shù
+vocab,,0,束,,to bind,,,shù
+vocab,,0,束缚,,to bind,,,shù fù
+vocab,,0,树立,,to set up,,,shù lì
+vocab,,0,数额,,amount,,,shù é
+vocab,,0,数目,,amount,,,shù mù
+vocab,,0,耍,,to play with,,,shuǎ
+vocab,,0,衰老,,to age,,,shuāi lǎo
+vocab,,0,衰退,,to decline,,,shuāi tuì
+vocab,,0,率领,,to lead,,,shuài lǐng
+vocab,,0,涮,,to rinse,,,shuàn
+vocab,,0,双胞胎,,twin,,,shuāng bāo tāi
+vocab,,0,爽快,,refreshed,,,shuǎng kuai
+vocab,,0,水利,,water conservancy,,,shuǐ lì
+vocab,,0,水龙头,,faucet,,,shuǐ lóng tóu
+vocab,,0,水泥,,cement,,,shuǐ ní
+vocab,,0,司法,,judicial,,,sī fǎ
+vocab,,0,司令,,commanding officer,,,sī lìng
+vocab,,0,思念,,to think of,,,sī niàn
+vocab,,0,思索,,to think deeply,,,sī suǒ
+vocab,,0,思维,,(line of) thought,,,sī wéi
+vocab,,0,思绪,,train of thought,,,sī xù
+vocab,,0,私自,,private,,,sī zì
+vocab,,0,斯文,,refined,,,sī wén
+vocab,,0,死亡,,to die,,,sǐ wáng
+vocab,,0,四肢,,the four limbs of the body,,,sì zhī
+vocab,,0,肆无忌惮,,absolutely unrestrained,,,sì wú jì dàn
+vocab,,0,饲养,,to raise,,,sì yǎng
+vocab,,0,耸,,to excite,,,sǒng
+vocab,,0,艘,,classifier for ships,,,sōu
+vocab,,0,搜索,,to search,,,sōu suǒ
+vocab,,0,苏醒,,to wake up,,,sū xǐng
+vocab,,0,俗话,,common saying,,,sú huà
+vocab,,0,塑造,,to model,,,sù zào
+vocab,,0,素食,,vegetables,,,sù shí
+vocab,,0,素质,,inner quality,,,sù zhì
+vocab,,0,诉讼,,lawsuit,,,sù sòng
+vocab,,0,算了,,let it be,,,suàn le
+vocab,,0,算数,,to count numbers,,,suàn shù
+vocab,,0,随即,,immediately,,,suí jí
+vocab,,0,随身,,to (carry) on one's person,,,suí shēn
+vocab,,0,随手,,conveniently,,,suí shǒu
+vocab,,0,随意,,as one wishes,,,suí yì
+vocab,,0,岁月,,years,,,suì yuè
+vocab,,0,隧道,,tunnel,,,suì dào
+vocab,,0,损坏,,to damage,,,sǔn huài
+vocab,,0,索赔,,to ask for compensation,,,suǒ péi
+vocab,,0,索性,,you might as well (do it),,,suǒ xìng
+vocab,,0,塌,,collapse,,,tā
+vocab,,0,踏实,,practical,,,tā shi
+vocab,,0,台风,,hurricane,,,tái fēng
+vocab,,0,太空,,outer space,,,tài kōng
+vocab,,0,泰斗,,leading scholar of his time,,,tài dǒu
+vocab,,0,瘫痪,,paralysis,,,tān huàn
+vocab,,0,贪婪,,avaricious,,,tān lán
+vocab,,0,贪污,,corruption,,,tān wū
+vocab,,0,摊儿,,erhua variant of 攤|摊[tān],,,tān r
+vocab,,0,弹性,,flexibility,,,tán xìng
+vocab,,0,坦白,,honest,,,tǎn bái
+vocab,,0,探测,,to probe,,,tàn cè
+vocab,,0,探索,,to explore,,,tàn suǒ
+vocab,,0,探讨,,to investigate,,,tàn tǎo
+vocab,,0,探望,,to visit,,,tàn wàng
+vocab,,0,叹气,,to sigh,,,tàn qì
+vocab,,0,糖葫芦,,sugar-coated Chinese hawthorn fruit on a stick,,,táng hú lu
+vocab,,0,倘若,,provided that,,,tǎng ruò
+vocab,,0,掏,,variant of 掏[tāo],,,tāo
+vocab,,0,滔滔不绝,,unceasing torrent (idiom),,,tāo tāo bù jué
+vocab,,0,陶瓷,,pottery and porcelain,,,táo cí
+vocab,,0,淘气,,naughty,,,táo qì
+vocab,,0,淘汰,,to wash out,,,táo tài
+vocab,,0,讨价还价,,to haggle over price,,,tǎo jià huán jià
+vocab,,0,特长,,personal strength,,,tè cháng
+vocab,,0,特定,,special,,,tè dìng
+vocab,,0,特色,,characteristic,,,tè sè
+vocab,,0,提拔,,to promote to a higher job,,,tí bá
+vocab,,0,提炼,,to extract (ore,,,tí liàn
+vocab,,0,提示,,to prompt,,,tí shì
+vocab,,0,提议,,proposal,,,tí yì
+vocab,,0,题材,,subject matter,,,tí cái
+vocab,,0,体谅,,to empathize,,,tǐ liàng
+vocab,,0,体面,,dignity,,,tǐ miàn
+vocab,,0,体系,,system,,,tǐ xì
+vocab,,0,天才,,talent,,,tiān cái
+vocab,,0,天伦之乐,,family love and joy,,,tiān lún zhī lè
+vocab,,0,天然气,,natural gas,,,tiān rán qì
+vocab,,0,天生,,nature,,,tiān shēng
+vocab,,0,天堂,,paradise,,,tiān táng
+vocab,,0,天文,,astronomy,,,tiān wén
+vocab,,0,田径,,track and field (athletics),,,tián jìng
+vocab,,0,舔,,to lick,,,tiǎn
+vocab,,0,挑剔,,picky,,,tiāo ti
+vocab,,0,条款,,clause (of contract or law),,,tiáo kuǎn
+vocab,,0,条理,,arrangement,,,tiáo lǐ
+vocab,,0,条约,,treaty,,,tiáo yuē
+vocab,,0,调和,,harmonious,,,tiáo hé
+vocab,,0,调剂,,to adjust,,,tiáo jì
+vocab,,0,调节,,to adjust,,,tiáo jié
+vocab,,0,调解,,to mediate,,,tiáo jiě
+vocab,,0,调料,,condiment,,,tiáo liào
+vocab,,0,挑拨,,to incite disharmony,,,tiǎo bō
+vocab,,0,挑衅,,to provoke,,,tiǎo xìn
+vocab,,0,跳跃,,to jump,,,tiào yuè
+vocab,,0,停泊,,to anchor,,,tíng bó
+vocab,,0,停顿,,to halt,,,tíng dùn
+vocab,,0,停滞,,stagnation,,,tíng zhì
+vocab,,0,亭子,,pavilion,,,tíng zi
+vocab,,0,挺拔,,tall and straight,,,tǐng bá
+vocab,,0,通货,,currency,,,tōng huò
+vocab,,0,通俗,,common,,,tōng sú
+vocab,,0,通用,,common (use),,,tōng yòng
+vocab,,0,铜矿,,Copper,,,tóng kuàng
+vocab,,0,同胞,,born of the same parents,,,tóng bāo
+vocab,,0,同志,,comrade,,,tóng zhì
+vocab,,0,童话,,children's fairy tales,,,tóng huà
+vocab,,0,统筹兼顾,,an overall plan taking into account all factors,,,tǒng chóu jiān gù
+vocab,,0,统计,,statistics,,,tǒng jì
+vocab,,0,统统,,totally,,,tǒng tǒng
+vocab,,0,投机,,to speculate (on financial markets),,,tóu jī
+vocab,,0,投票,,to vote,,,tóu piào
+vocab,,0,投降,,to surrender,,,tóu xiáng
+vocab,,0,投掷,,to throw sth a long distance,,,tóu zhì
+vocab,,0,秃,,bald,,,tū
+vocab,,0,突破,,to break through,,,tū pò
+vocab,,0,图案,,design,,,tú àn
+vocab,,0,徒弟,,apprentice,,,tú dì
+vocab,,0,途径,,way,,,tú jìng
+vocab,,0,涂抹,,to paint,,,tú mǒ
+vocab,,0,土壤,,soil,,,tǔ rǎng
+vocab,,0,团结,,a rally,,,tuán jié
+vocab,,0,团体,,group,,,tuán tǐ
+vocab,,0,团圆,,to have a reunion,,,tuán yuán
+vocab,,0,推测,,speculation,,,tuī cè
+vocab,,0,推翻,,to overthrow,,,tuī fān
+vocab,,0,推理,,reasoning,,,tuī lǐ
+vocab,,0,推论,,to infer,,,tuī lùn
+vocab,,0,推销,,to market,,,tuī xiāo
+vocab,,0,吞咽,,to swallow,,,tūn yàn
+vocab,,0,脱离,,to separate oneself from,,,tuō lí
+vocab,,0,拖延,,to adjourn,,,tuō yán
+vocab,,0,托运,,to consign (goods),,,tuō yùn
+vocab,,0,妥当,,appropriate,,,tuǒ dang
+vocab,,0,妥善,,appropriate,,,tuǒ shàn
+vocab,,0,妥协,,to compromise,,,tuǒ xié
+vocab,,0,椭圆,,oval,,,tuǒ yuán
+vocab,,0,唾沫,,spittle,,,tuò mo
+vocab,,0,挖掘,,to excavate,,,wā jué
+vocab,,0,娃娃,,baby,,,wá wa
+vocab,,0,瓦解,,to collapse,,,wǎ jiě
+vocab,,0,哇,,replaces 啊 when following the vowel 'u' or 'ao',,,wa
+vocab,,0,歪曲,,to distort,,,wāi qū
+vocab,,0,外表,,external,,,wài biǎo
+vocab,,0,外行,,layman,,,wài háng
+vocab,,0,外界,,the outside world,,,wài jiè
+vocab,,0,外向,,outward-looking,,,wài xiàng
+vocab,,0,丸,,pill,,,wán
+vocab,,0,完备,,faultless,,,wán bèi
+vocab,,0,完毕,,to finish,,,wán bì
+vocab,,0,玩弄,,to play with,,,wán nòng
+vocab,,0,玩意儿,,erhua variant of 玩意[wán yì],,,wán yì r
+vocab,,0,顽固,,stubborn,,,wán gù
+vocab,,0,顽强,,tenacious,,,wán qiáng
+vocab,,0,挽回,,to retrieve,,,wǎn huí
+vocab,,0,挽救,,to save,,,wǎn jiù
+vocab,,0,惋惜,,to feel sorry for a person over sth that should have happened,,,wǎn xī
+vocab,,0,万分,,very much,,,wàn fēn
+vocab,,0,往常,,habitually (in the past),,,wǎng cháng
+vocab,,0,往事,,past events,,,wǎng shì
+vocab,,0,网络,,network (computing,,,wǎng luò
+vocab,,0,妄想,,to attempt vainly,,,wàng xiǎng
+vocab,,0,微不足道,,negligible,,,wēi bù zú dào
+vocab,,0,微观,,micro-,,,wēi guān
+vocab,,0,威风,,might,,,wēi fēng
+vocab,,0,威力,,might,,,wēi lì
+vocab,,0,威望,,prestige,,,wēi wàng
+vocab,,0,威信,,prestige,,,wēi xìn
+vocab,,0,危机,,crisis,,,wēi jī
+vocab,,0,违背,,to violate,,,wéi bèi
+vocab,,0,维持,,to keep,,,wéi chí
+vocab,,0,维生素,,vitamin,,,wéi shēng sù
+vocab,,0,维修,,maintenance (of equipment),,,wéi xiū
+vocab,,0,唯独,,only,,,wéi dú
+vocab,,0,为难,,to feel embarrassed or awkward,,,wéi nán
+vocab,,0,为期,,(to be done) by (a certain date),,,wéi qī
+vocab,,0,为首,,head,,,wéi shǒu
+vocab,,0,委员,,committee member,,,wěi yuán
+vocab,,0,伪造,,to forge,,,wěi zào
+vocab,,0,胃口,,appetite,,,wèi kǒu
+vocab,,0,位于,,to be located at,,,wèi yú
+vocab,,0,未免,,unavoidable,,,wèi miǎn
+vocab,,0,畏惧,,to fear,,,wèi jù
+vocab,,0,卫星,,(space) satellite,,,wèi xīng
+vocab,,0,慰问,,to express sympathy,,,wèi wèn
+vocab,,0,温带,,temperate zone,,,wēn dài
+vocab,,0,温和,,mild,,,wēn hé
+vocab,,0,文凭,,diploma,,,wén píng
+vocab,,0,文物,,cultural relic,,,wén wù
+vocab,,0,文献,,document,,,wén xiàn
+vocab,,0,文雅,,elegant,,,wén yǎ
+vocab,,0,文艺,,literature and art,,,wén yì
+vocab,,0,问世,,to be published,,,wèn shì
+vocab,,0,窝,,nest,,,wō
+vocab,,0,乌黑,,jet-black,,,wū hēi
+vocab,,0,污蔑,,to slander,,,wū miè
+vocab,,0,诬陷,,to entrap,,,wū xiàn
+vocab,,0,无比,,incomparable,,,wú bǐ
+vocab,,0,无偿,,free,,,wú cháng
+vocab,,0,无耻,,without any sense of shame,,,wú chǐ
+vocab,,0,无从,,not to have access,,,wú cóng
+vocab,,0,无动于衷,,aloof,,,wú dòng yú zhōng
+vocab,,0,无非,,only,,,wú fēi
+vocab,,0,无精打采,,dispirited and downcast (idiom); listless,,,wú jīng dǎ cǎi
+vocab,,0,无可奉告,,(idiom) 'no comment',,,wú kě fèng gào
+vocab,,0,无可奈何,,have no way out,,,wú kě nài hé
+vocab,,0,无赖,,hoodlum,,,wú lài
+vocab,,0,无理取闹,,to make trouble without reason (idiom); to be deliberately provocative,,,wú lǐ qǔ nào
+vocab,,0,无能为力,,impotent (idiom),,,wú néng wéi lì
+vocab,,0,无穷无尽,,vast and limitless (idiom); endless span of time,,,wú qióng wú jìn
+vocab,,0,无微不至,,in every possible way (idiom); meticulous,,,wú wēi bù zhì
+vocab,,0,无忧无虑,,carefree and without worries (idiom),,,wú yōu wú lǜ
+vocab,,0,无知,,ignorant,,,wú zhī
+vocab,,0,舞蹈,,dance,,,wǔ dǎo
+vocab,,0,武侠,,martial arts chivalry (Chinese literary,,,wǔ xiá
+vocab,,0,武装,,arms,,,wǔ zhuāng
+vocab,,0,侮辱,,to insult,,,wǔ rǔ
+vocab,,0,勿,,do not,,,wù
+vocab,,0,务必,,must,,,wù bì
+vocab,,0,务实,,pragmatic,,,wù shí
+vocab,,0,误差,,difference,,,wù chā
+vocab,,0,误解,,to misunderstand,,,wù jiě
+vocab,,0,物美价廉,,good quality and cheap,,,wù měi jià lián
+vocab,,0,物资,,goods,,,wù zī
+vocab,,0,溪,,variant of 溪,,,xī
+vocab,,0,膝盖,,knee,,,xī gài
+vocab,,0,熄灭,,to stop burning,,,xī miè
+vocab,,0,吸取,,to absorb,,,xī qǔ
+vocab,,0,昔日,,formerly,,,xī rì
+vocab,,0,牺牲,,to sacrifice oneself,,,xī shēng
+vocab,,0,夕阳,,sunset,,,xī yáng
+vocab,,0,媳妇,,daughter-in-law,,,xí fù
+vocab,,0,习俗,,custom,,,xí sú
+vocab,,0,袭击,,attack (esp. surprise attack),,,xí jī
+vocab,,0,喜闻乐见,,a delight to see (idiom); an attractive spectacle,,,xǐ wén lè jiàn
+vocab,,0,喜悦,,happy,,,xǐ yuè
+vocab,,0,系列,,series,,,xì liè
+vocab,,0,细胞,,cell (biology),,,xì bāo
+vocab,,0,细菌,,bacterium,,,xì jūn
+vocab,,0,细致,,delicate,,,xì zhì
+vocab,,0,霞,,red clouds,,,xiá
+vocab,,0,狭隘,,narrow,,,xiá ài
+vocab,,0,狭窄,,narrow,,,xiá zhǎi
+vocab,,0,峡谷,,canyon,,,xiá gǔ
+vocab,,0,夏令营,,summer camp,,,xià lìng yíng
+vocab,,0,下属,,subordinate,,,xià shǔ
+vocab,,0,先进,,advanced (technology),,,xiān jìn
+vocab,,0,先前,,before,,,xiān qián
+vocab,,0,鲜明,,bright,,,xiān míng
+vocab,,0,掀起,,to lift,,,xiān qǐ
+vocab,,0,纤维,,fiber,,,xiān wéi
+vocab,,0,弦,,bow string,,,xián
+vocab,,0,嫌,,to dislike,,,xián
+vocab,,0,嫌疑,,suspicion,,,xián yí
+vocab,,0,闲话,,digression,,,xián huà
+vocab,,0,贤惠,,chaste,,,xián huì
+vocab,,0,衔接,,to join together,,,xián jiē
+vocab,,0,显著,,outstanding,,,xiǎn zhù
+vocab,,0,现场,,lit. actual location,,,xiàn chǎng
+vocab,,0,现成,,ready-made,,,xiàn chéng
+vocab,,0,现状,,current situation,,,xiàn zhuàng
+vocab,,0,宪法,,constitution (of a country),,,xiàn fǎ
+vocab,,0,陷害,,to entrap,,,xiàn hài
+vocab,,0,陷入,,to sink into,,,xiàn rù
+vocab,,0,馅儿,,erhua variant of 餡|馅,,,xiàn r
+vocab,,0,线索,,trail,,,xiàn suǒ
+vocab,,0,相差,,to differ,,,xiāng chà
+vocab,,0,相等,,equal,,,xiāng děng
+vocab,,0,相辅相成,,to complement one another (idiom),,,xiāng fǔ xiāng chéng
+vocab,,0,相应,,to correspond,,,xiāng yìng
+vocab,,0,镶嵌,,to inlay,,,xiāng qiàn
+vocab,,0,乡镇,,village,,,xiāng zhèn
+vocab,,0,想方设法,,to think up every possible method (idiom); to devise ways and means,,,xiǎng fāng shè fǎ
+vocab,,0,响亮,,loud and clear,,,xiǎng liàng
+vocab,,0,响应,,respond to,,,xiǎng yìng
+vocab,,0,巷,,lane,,,xiàng
+vocab,,0,向导,,guide,,,xiàng dǎo
+vocab,,0,向来,,always (previously),,,xiàng lái
+vocab,,0,向往,,to yearn for,,,xiàng wǎng
+vocab,,0,消除,,to eliminate,,,xiāo chú
+vocab,,0,消毒,,to disinfect,,,xiāo dú
+vocab,,0,消防,,fire-fighting,,,xiāo fáng
+vocab,,0,消耗,,to use up,,,xiāo hào
+vocab,,0,消极,,negative,,,xiāo jí
+vocab,,0,销毁,,to destroy (by melting or burning),,,xiāo huǐ
+vocab,,0,小心翼翼,,cautious and solemn (idiom); very carefully,,,xiǎo xīn yì yì
+vocab,,0,效益,,benefit,,,xiào yì
+vocab,,0,肖像,,portrait,,,xiào xiàng
+vocab,,0,携带,,to carry (on one's person),,,xié dài
+vocab,,0,协会,,an association,,,xié huì
+vocab,,0,协商,,to consult with,,,xié shāng
+vocab,,0,协议,,agreement,,,xié yì
+vocab,,0,协助,,to provide assistance,,,xié zhù
+vocab,,0,写作,,writing,,,xiě zuò
+vocab,,0,屑,,bits,,,xiè
+vocab,,0,谢绝,,to refuse politely,,,xiè jué
+vocab,,0,泄露,,to leak (information),,,xiè lù
+vocab,,0,泄气,,to leak (gas),,,xiè qì
+vocab,,0,新陈代谢,,metabolism (biology),,,xīn chén dài xiè
+vocab,,0,新郎,,bridegroom,,,xīn láng
+vocab,,0,新娘,,bride,,,xīn niáng
+vocab,,0,新颖,,lit. new bud,,,xīn yǐng
+vocab,,0,心得,,knowledge gained,,,xīn dé
+vocab,,0,心灵,,bright,,,xīn líng
+vocab,,0,心态,,attitude (of the heart),,,xīn tài
+vocab,,0,心疼,,to love dearly,,,xīn téng
+vocab,,0,心血,,heart's blood,,,xīn xuè
+vocab,,0,心眼儿,,one's thoughts,,,xīn yǎn r
+vocab,,0,辛勤,,hardworking,,,xīn qín
+vocab,,0,欣慰,,to be gratified,,,xīn wèi
+vocab,,0,欣欣向荣,,luxuriant growth (idiom); flourishing,,,xīn xīn xiàng róng
+vocab,,0,薪水,,salary,,,xīn shuǐ
+vocab,,0,信赖,,to trust,,,xìn lài
+vocab,,0,信念,,faith,,,xìn niàn
+vocab,,0,信仰,,to believe in (a religion),,,xìn yǎng
+vocab,,0,信誉,,prestige,,,xìn yù
+vocab,,0,腥,,fishy (smell),,,xīng
+vocab,,0,兴隆,,prosperous,,,xīng lóng
+vocab,,0,兴旺,,prosperous,,,xīng wàng
+vocab,,0,行政,,administrative,,,xíng zhèng
+vocab,,0,形态,,shape,,,xíng tài
+vocab,,0,刑事,,criminal,,,xíng shì
+vocab,,0,性感,,sex appeal,,,xìng gǎn
+vocab,,0,性命,,life,,,xìng mìng
+vocab,,0,性能,,function,,,xìng néng
+vocab,,0,性情,,nature,,,xìng qíng
+vocab,,0,幸好,,fortunately,,,xìng hǎo
+vocab,,0,兴高采烈,,happy and excited (idiom); in high spirits,,,xīng gāo cǎi liè
+vocab,,0,兴致勃勃,,to become exhilarated (idiom); in high spirits,,,xìng zhì bó bó
+vocab,,0,胸怀,,one's bosom (the seat of emotions),,,xiōng huái
+vocab,,0,胸膛,,chest,,,xiōng táng
+vocab,,0,凶恶,,variant of 兇惡|凶恶,,,xiōng è
+vocab,,0,凶手,,murderer,,,xiōng shǒu
+vocab,,0,雄厚,,robust,,,xióng hòu
+vocab,,0,修复,,to restore,,,xiū fù
+vocab,,0,修建,,to build,,,xiū jiàn
+vocab,,0,修理,,to repair,,,xiū lǐ
+vocab,,0,羞耻,,(a feeling of) shame,,,xiū chǐ
+vocab,,0,休养,,to recuperate,,,xiū yǎng
+vocab,,0,绣,,to embroider,,,xiù
+vocab,,0,嗅觉,,sense of smell,,,xiù jué
+vocab,,0,虚假,,false,,,xū jiǎ
+vocab,,0,虚荣,,vanity,,,xū róng
+vocab,,0,虚伪,,false,,,xū wěi
+vocab,,0,需求,,requirement,,,xū qiú
+vocab,,0,须知,,prerequisites,,,xū zhī
+vocab,,0,许可,,to allow,,,xǔ kě
+vocab,,0,酗酒,,heavy drinking,,,xù jiǔ
+vocab,,0,畜牧,,to raise animals,,,xù mù
+vocab,,0,序言,,preface,,,xù yán
+vocab,,0,宣誓,,to swear an oath (of office),,,xuān shì
+vocab,,0,宣扬,,to proclaim,,,xuān yáng
+vocab,,0,悬挂,,to suspend,,,xuán guà
+vocab,,0,悬念,,suspense in a movie,,,xuán niàn
+vocab,,0,悬崖峭壁,,sheer cliffs and precipitous rock faces (idiom),,,xuán yá qiào bì
+vocab,,0,旋律,,melody,,,xuán lǜ
+vocab,,0,旋转,,to rotate,,,xuán zhuǎn
+vocab,,0,选拔,,to select the best,,,xuǎn bá
+vocab,,0,选手,,athlete,,,xuǎn shǒu
+vocab,,0,削弱,,to weaken,,,xuē ruò
+vocab,,0,学历,,educational background,,,xué lì
+vocab,,0,学说,,theory,,,xué shuō
+vocab,,0,学位,,academic degree,,,xué wèi
+vocab,,0,雪上加霜,,to add hail to snow (idiom); one disaster on top of another,,,xuě shàng jiā shuāng
+vocab,,0,血压,,blood pressure,,,xuè yā
+vocab,,0,熏陶,,to seep in,,,xūn táo
+vocab,,0,循环,,to cycle,,,xún huán
+vocab,,0,循序渐进,,in sequence,,,xún xù jiàn jìn
+vocab,,0,巡逻,,to patrol (police,,,xún luó
+vocab,,0,寻觅,,to look for,,,xún mì
+vocab,,0,押金,,deposit,,,yā jīn
+vocab,,0,压迫,,to oppress,,,yā pò
+vocab,,0,压岁钱,,money given to children as new year present,,,yā suì qián
+vocab,,0,压缩,,to compress,,,yā suō
+vocab,,0,压抑,,to constrain or repress emotions,,,yā yì
+vocab,,0,压榨,,to press,,,yā zhà
+vocab,,0,压制,,to suppress,,,yā zhì
+vocab,,0,亚军,,second place (in a sports contest),,,yà jūn
+vocab,,0,烟花,,fireworks,,,yān huā
+vocab,,0,淹没,,to submerge,,,yān mò
+vocab,,0,延期,,to delay,,,yán qī
+vocab,,0,延伸,,to extend,,,yán shēn
+vocab,,0,延续,,to continue,,,yán xù
+vocab,,0,严寒,,bitter cold,,,yán hán
+vocab,,0,严禁,,strictly prohibit,,,yán jìn
+vocab,,0,严峻,,grim,,,yán jùn
+vocab,,0,严厉,,severe,,,yán lì
+vocab,,0,严密,,strict,,,yán mì
+vocab,,0,沿海,,coastal,,,yán hǎi
+vocab,,0,言论,,speech,,,yán lùn
+vocab,,0,炎热,,blistering hot,,,yán rè
+vocab,,0,岩石,,rock,,,yán shí
+vocab,,0,演变,,to develop,,,yǎn biàn
+vocab,,0,演讲,,lecture,,,yǎn jiǎng
+vocab,,0,演习,,maneuver,,,yǎn xí
+vocab,,0,演绎,,to deduce,,,yǎn yì
+vocab,,0,演奏,,to play a musical instrument,,,yǎn zòu
+vocab,,0,掩盖,,to conceal,,,yǎn gài
+vocab,,0,掩护,,to screen,,,yǎn hù
+vocab,,0,掩饰,,to conceal a fault,,,yǎn shì
+vocab,,0,眼光,,gaze,,,yǎn guāng
+vocab,,0,眼色,,a wink,,,yǎn sè
+vocab,,0,眼神,,expression or emotion showing in one's eyes,,,yǎn shén
+vocab,,0,眼下,,now,,,yǎn xià
+vocab,,0,验收,,to check on receipt,,,yàn shōu
+vocab,,0,验证,,to inspect and verify,,,yàn zhèng
+vocab,,0,厌恶,,to loathe,,,yàn wù
+vocab,,0,氧气,,oxygen,,,yǎng qì
+vocab,,0,样品,,sample,,,yàng pǐn
+vocab,,0,摇摆,,to sway,,,yáo bǎi
+vocab,,0,摇滚,,to shake and boil,,,yáo gǔn
+vocab,,0,摇晃,,to rock,,,yáo huàng
+vocab,,0,遥控,,remote control,,,yáo kòng
+vocab,,0,遥远,,distant,,,yáo yuǎn
+vocab,,0,谣言,,rumor,,,yáo yán
+vocab,,0,咬牙切齿,,gnashing one's teeth (idiom); displaying extreme anger,,,yǎo yá qiè chǐ
+vocab,,0,要不然,,otherwise,,,yào bù rán
+vocab,,0,要点,,main point,,,yào diǎn
+vocab,,0,要命,,to cause sb's death,,,yào mìng
+vocab,,0,要素,,essential factor,,,yào sù
+vocab,,0,耀眼,,to dazzle,,,yào yǎn
+vocab,,0,野蛮,,barbarous,,,yě mán
+vocab,,0,野心,,ambition,,,yě xīn
+vocab,,0,一流,,top quality,,,yī liú
+vocab,,0,依次,,in order,,,yī cì
+vocab,,0,依旧,,as before,,,yī jiù
+vocab,,0,依据,,according to,,,yī jù
+vocab,,0,依靠,,to rely on sth (for support etc),,,yī kào
+vocab,,0,依赖,,to depend on,,,yī lài
+vocab,,0,依托,,to rely on,,,yī tuō
+vocab,,0,衣裳,,clothes,,,yī shang
+vocab,,0,一度,,for a time,,,yī dù
+vocab,,0,一贯,,consistent,,,yī guàn
+vocab,,0,一律,,same,,,yī lǜ
+vocab,,0,一目了然,,obvious at a glance (idiom),,,yī mù liǎo rán
+vocab,,0,一向,,always (previously),,,yī xiàng
+vocab,,0,一再,,repeatedly,,,yī zài
+vocab,,0,遗产,,heritage,,,yí chǎn
+vocab,,0,遗传,,heredity,,,yí chuán
+vocab,,0,遗留,,(leave or be a) legacy,,,yí liú
+vocab,,0,遗失,,to lose,,,yí shī
+vocab,,0,疑惑,,to doubt,,,yí huò
+vocab,,0,仪器,,instrument,,,yí qì
+vocab,,0,仪式,,ceremony,,,yí shì
+vocab,,0,以便,,so that,,,yǐ biàn
+vocab,,0,以免,,in order to avoid,,,yǐ miǎn
+vocab,,0,以往,,in the past,,,yǐ wǎng
+vocab,,0,以至,,down to,,,yǐ zhì
+vocab,,0,以致,,to such an extent as to,,,yǐ zhì
+vocab,,0,亦,,also,,,yì
+vocab,,0,翼,,wing,,,yì
+vocab,,0,一帆风顺,,propitious wind throughout the journey (idiom),,,yī fān fēng shùn
+vocab,,0,一举两得,,one move,,,yī jǔ liǎng dé
+vocab,,0,一如既往,,just as in the past (idiom); as before,,,yī rú jì wǎng
+vocab,,0,一丝不苟,,not one thread loose (idiom); strictly according to the rules,,,yī sī bù gǒu
+vocab,,0,异常,,exceptional,,,yì cháng
+vocab,,0,意料,,to anticipate,,,yì liào
+vocab,,0,意识,,consciousness,,,yì shí
+vocab,,0,意图,,intent,,,yì tú
+vocab,,0,意味着,,to signify,,,yì wèi zhe
+vocab,,0,意向,,intention,,,yì xiàng
+vocab,,0,意志,,will,,,yì zhì
+vocab,,0,毅力,,perseverance,,,yì lì
+vocab,,0,毅然,,firmly,,,yì rán
+vocab,,0,抑制,,to inhibit,,,yì zhì
+vocab,,0,阴谋,,plot,,,yīn móu
+vocab,,0,音响,,speakers or speaker (electronic),,,yīn xiǎng
+vocab,,0,隐蔽,,to conceal,,,yǐn bì
+vocab,,0,隐患,,a danger concealed within sth,,,yǐn huàn
+vocab,,0,隐瞒,,to conceal,,,yǐn mán
+vocab,,0,隐私,,secrets,,,yǐn sī
+vocab,,0,隐约,,vague,,,yǐn yuē
+vocab,,0,引导,,to guide,,,yǐn dǎo
+vocab,,0,引擎,,engine (loanword),,,yǐn qíng
+vocab,,0,引用,,to quote,,,yǐn yòng
+vocab,,0,饮食,,food and drink,,,yǐn shí
+vocab,,0,印刷,,print,,,yìn shuā
+vocab,,0,婴儿,,infant,,,yīng ér
+vocab,,0,英明,,wise,,,yīng míng
+vocab,,0,英勇,,bravery,,,yīng yǒng
+vocab,,0,迎面,,directly,,,yíng miàn
+vocab,,0,盈利,,profit,,,yíng lì
+vocab,,0,荧屏,,fluorescent screen,,,yíng píng
+vocab,,0,应酬,,social niceties,,,yìng chou
+vocab,,0,应邀,,at sb's invitation,,,yìng yāo
+vocab,,0,拥护,,to endorse,,,yōng hù
+vocab,,0,拥有,,to have,,,yōng yǒu
+vocab,,0,庸俗,,filthy,,,yōng sú
+vocab,,0,勇于,,to dare to,,,yǒng yú
+vocab,,0,永恒,,eternal,,,yǒng héng
+vocab,,0,涌现,,to emerge in large numbers,,,yǒng xiàn
+vocab,,0,踊跃,,to leap,,,yǒng yuè
+vocab,,0,用功,,diligent,,,yòng gōng
+vocab,,0,用户,,user,,,yòng hù
+vocab,,0,优胜劣汰,,survival of the fittest (idiom),,,yōu shèng liè tài
+vocab,,0,优先,,priority,,,yōu xiān
+vocab,,0,优异,,exceptional,,,yōu yì
+vocab,,0,优越,,superior,,,yōu yuè
+vocab,,0,忧郁,,sullen,,,yōu yù
+vocab,,0,油腻,,grease,,,yóu nì
+vocab,,0,油漆,,oil paints,,,yóu qī
+vocab,,0,犹如,,similar to,,,yóu rú
+vocab,,0,有条不紊,,regular and thorough (idiom); methodically arranged,,,yǒu tiáo bù wěn
+vocab,,0,幼稚,,young,,,yòu zhì
+vocab,,0,诱惑,,to entice,,,yòu huò
+vocab,,0,愚蠢,,silly,,,yú chǔn
+vocab,,0,愚昧,,ignorant,,,yú mèi
+vocab,,0,舆论,,public opinion,,,yú lùn
+vocab,,0,渔民,,fisherman,,,yú mín
+vocab,,0,与日俱增,,to increase steadily,,,yǔ rì jù zēng
+vocab,,0,羽绒服,,down-filled garment,,,yǔ róng fú
+vocab,,0,予以,,to give,,,yǔ yǐ
+vocab,,0,愈,,to heal,,,yù
+vocab,,0,预料,,to forecast,,,yù liào
+vocab,,0,预期,,to expect,,,yù qī
+vocab,,0,预赛,,preliminary competition,,,yù sài
+vocab,,0,预算,,budget,,,yù suàn
+vocab,,0,预先,,beforehand,,,yù xiān
+vocab,,0,预言,,to predict,,,yù yán
+vocab,,0,预兆,,omen,,,yù zhào
+vocab,,0,欲望,,desire,,,yù wàng
+vocab,,0,寓言,,fable,,,yù yán
+vocab,,0,冤枉,,hatred,,,yuān wang
+vocab,,0,元首,,head of state,,,yuán shǒu
+vocab,,0,元素,,element,,,yuán sù
+vocab,,0,元宵节,,Lantern Festival,,,Yuán xiāo jié
+vocab,,0,圆满,,satisfactory,,,yuán mǎn
+vocab,,0,原告,,complainant,,,yuán gào
+vocab,,0,原理,,principle,,,yuán lǐ
+vocab,,0,原始,,first,,,yuán shǐ
+vocab,,0,原先,,former,,,yuán xiān
+vocab,,0,园林,,gardens,,,yuán lín
+vocab,,0,源泉,,fountainhead,,,yuán quán
+vocab,,0,约束,,to restrict,,,yuē shù
+vocab,,0,岳父,,wife's father,,,yuè fù
+vocab,,0,乐谱,,a musical score,,,yuè pǔ
+vocab,,0,熨,,an iron,,,yùn
+vocab,,0,蕴藏,,to hold in store,,,yùn cáng
+vocab,,0,运算,,(mathematical) operation,,,yùn suàn
+vocab,,0,运行,,to be in motion,,,yùn xíng
+vocab,,0,酝酿,,(of alcohol) to ferment,,,yùn niàng
+vocab,,0,孕育,,to be pregnant,,,yùn yù
+vocab,,0,砸,,smash,,,zá
+vocab,,0,杂技,,acrobatics,,,zá jì
+vocab,,0,杂交,,a hybrid,,,zá jiāo
+vocab,,0,咋,,dialectal equivalent of 怎麼|怎么[zěn me],,,zǎ
+vocab,,0,灾难,,disaster,,,zāi nàn
+vocab,,0,栽培,,to grow,,,zāi péi
+vocab,,0,宰,,to slaughter livestock,,,zǎi
+vocab,,0,在乎,,determined by,,,zài hu
+vocab,,0,在意,,to care about,,,zài yì
+vocab,,0,再接再厉,,to continue the struggle (idiom); to persist,,,zài jiē zài lì
+vocab,,0,攒,,to collect,,,zǎn
+vocab,,0,赞叹,,to sigh or gasp in admiration,,,zàn tàn
+vocab,,0,赞同,,to approve of,,,zàn tóng
+vocab,,0,赞扬,,to praise,,,zàn yáng
+vocab,,0,赞助,,to support,,,zàn zhù
+vocab,,0,暂且,,for now,,,zàn qiě
+vocab,,0,糟蹋,,to waste,,,zāo tà
+vocab,,0,遭受,,to suffer,,,zāo shòu
+vocab,,0,遭殃,,to suffer a calamity,,,zāo yāng
+vocab,,0,遭遇,,to meet with,,,zāo yù
+vocab,,0,造反,,to rebel,,,zào fǎn
+vocab,,0,造型,,modeling,,,zào xíng
+vocab,,0,噪音,,rumble,,,zào yīn
+vocab,,0,责怪,,to blame,,,zé guài
+vocab,,0,贼,,thief,,,zéi
+vocab,,0,增添,,to add,,,zēng tiān
+vocab,,0,赠送,,to present as a gift,,,zèng sòng
+vocab,,0,渣,,slag (in mining or smelting),,,zhā
+vocab,,0,扎,,to prick,,,zhā
+vocab,,0,扎实,,strong,,,zhā shi
+vocab,,0,眨,,to blink,,,zhǎ
+vocab,,0,诈骗,,to defraud,,,zhà piàn
+vocab,,0,摘要,,summary,,,zhāi yào
+vocab,,0,债券,,bond,,,zhài quàn
+vocab,,0,沾光,,to bask in the light,,,zhān guāng
+vocab,,0,瞻仰,,to revere,,,zhān yǎng
+vocab,,0,斩钉截铁,,to chop the nail and slice the iron (idiom); resolute and decisive,,,zhǎn dīng jié tiě
+vocab,,0,展示,,to reveal,,,zhǎn shì
+vocab,,0,展望,,outlook,,,zhǎn wàng
+vocab,,0,展现,,to come out,,,zhǎn xiàn
+vocab,,0,崭新,,brand new,,,zhǎn xīn
+vocab,,0,战斗,,to fight,,,zhàn dòu
+vocab,,0,战略,,strategy,,,zhàn lvè
+vocab,,0,战术,,tactics,,,zhàn shù
+vocab,,0,战役,,military campaign,,,zhàn yì
+vocab,,0,占据,,to occupy,,,zhàn jù
+vocab,,0,占领,,to occupy (a territory),,,zhàn lǐng
+vocab,,0,占有,,to have,,,zhàn yǒu
+vocab,,0,章程,,rules,,,zhāng chéng
+vocab,,0,长辈,,one's elders,,,zhǎng bèi
+vocab,,0,障碍,,barrier,,,zhàng ài
+vocab,,0,帐篷,,tent,,,zhàng peng
+vocab,,0,招收,,to hire,,,zhāo shōu
+vocab,,0,招投标,,bid inviting and bid offering,,,zhāo tóu biāo
+vocab,,0,朝气蓬勃,,full of youthful energy (idiom); vigorous,,,zhāo qì péng bó
+vocab,,0,着迷,,to be fascinated,,,zháo mí
+vocab,,0,沼泽,,marsh,,,zhǎo zé
+vocab,,0,照料,,to tend,,,zhào liào
+vocab,,0,照样,,as before,,,zhào yàng
+vocab,,0,照耀,,to shine,,,zhào yào
+vocab,,0,照应,,to correlate with,,,zhào yìng
+vocab,,0,遮挡,,to shelter,,,zhē dǎng
+vocab,,0,折腾,,to toss from side to side (e.g. sleeplessly),,,zhē teng
+vocab,,0,折,,variant of 折[zhé],,,zhé
+vocab,,0,折磨,,to persecute,,,zhé mó
+vocab,,0,真相,,the truth about sth,,,zhēn xiàng
+vocab,,0,真挚,,sincere,,,zhēn zhì
+vocab,,0,珍贵,,precious,,,zhēn guì
+vocab,,0,珍稀,,rare,,,zhēn xī
+vocab,,0,珍珠,,pearl,,,zhēn zhū
+vocab,,0,侦探,,detective,,,zhēn tàn
+vocab,,0,斟酌,,to consider,,,zhēn zhuó
+vocab,,0,阵地,,position,,,zhèn dì
+vocab,,0,阵容,,troop arrangement,,,zhèn róng
+vocab,,0,镇定,,calm,,,zhèn dìng
+vocab,,0,镇静,,calm,,,zhèn jìng
+vocab,,0,镇压,,suppression,,,zhèn yā
+vocab,,0,振奋,,to stir oneself up,,,zhèn fèn
+vocab,,0,振兴,,to revive,,,zhèn xīng
+vocab,,0,震惊,,to shock,,,zhèn jīng
+vocab,,0,争端,,dispute,,,zhēng duān
+vocab,,0,争夺,,to fight over,,,zhēng duó
+vocab,,0,争气,,to work hard for sth,,,zhēng qì
+vocab,,0,争先恐后,,striving to be first and fearing to be last (idiom); outdoing one another,,,zhēng xiān kǒng hòu
+vocab,,0,争议,,controversy,,,zhēng yì
+vocab,,0,蒸发,,to evaporate,,,zhēng fā
+vocab,,0,征服,,to conquer,,,zhēng fú
+vocab,,0,征收,,to levy (a fine),,,zhēng shōu
+vocab,,0,正月,,first month of the lunar year,,,zhēng yuè
+vocab,,0,挣扎,,to struggle,,,zhēng zhá
+vocab,,0,整顿,,to tidy up,,,zhěng dùn
+vocab,,0,正当,,honest,,,zhèng dāng
+vocab,,0,正负,,positive and negative,,,zhèng fù
+vocab,,0,正规,,regular,,,zhèng guī
+vocab,,0,正经,,decent,,,zhèng jīng
+vocab,,0,正气,,healthy environment,,,zhèng qì
+vocab,,0,正义,,justice,,,zhèng yì
+vocab,,0,政权,,regime,,,zhèng quán
+vocab,,0,证实,,to confirm (sth to be true),,,zhèng shí
+vocab,,0,证书,,credentials,,,zhèng shū
+vocab,,0,郑重,,serious,,,zhèng zhòng
+vocab,,0,症状,,symptom (of an illness),,,zhèng zhuàng
+vocab,,0,枝,,branch,,,zhī
+vocab,,0,支撑,,to prop up,,,zhī chēng
+vocab,,0,支出,,to spend,,,zhī chū
+vocab,,0,支流,,tributary (river),,,zhī liú
+vocab,,0,支配,,to control,,,zhī pèi
+vocab,,0,支援,,to provide assistance,,,zhī yuán
+vocab,,0,支柱,,mainstay,,,zhī zhù
+vocab,,0,知觉,,perception,,,zhī jué
+vocab,,0,知足常乐,,satisfied with what one has (idiom),,,zhī zú cháng lè
+vocab,,0,脂肪,,body fat,,,zhī fáng
+vocab,,0,直播,,live broadcast (not recorded),,,zhí bō
+vocab,,0,值班,,to work a shift,,,zhí bān
+vocab,,0,殖民地,,colony,,,zhí mín dì
+vocab,,0,职能,,function,,,zhí néng
+vocab,,0,职位,,post,,,zhí wèi
+vocab,,0,职务,,post,,,zhí wù
+vocab,,0,指标,,norm,,,zhǐ biāo
+vocab,,0,指定,,to appoint,,,zhǐ dìng
+vocab,,0,指甲,,fingernail,,,zhǐ jia
+vocab,,0,指令,,order,,,zhǐ lìng
+vocab,,0,指南针,,compass,,,zhǐ nán zhēn
+vocab,,0,指示,,to point out,,,zhǐ shì
+vocab,,0,指望,,to hope for sth,,,zhǐ wàng
+vocab,,0,指责,,to criticize,,,zhǐ zé
+vocab,,0,治安,,law and order,,,zhì ān
+vocab,,0,治理,,to govern,,,zhì lǐ
+vocab,,0,制裁,,to punish,,,zhì cái
+vocab,,0,制订,,to work out,,,zhì dìng
+vocab,,0,制服,,to subdue,,,zhì fú
+vocab,,0,制约,,to restrict,,,zhì yuē
+vocab,,0,制止,,to curb,,,zhì zhǐ
+vocab,,0,致辞,,to express in words or writing,,,zhì cí
+vocab,,0,致力于,,Committed to,,,zhì lì yú
+vocab,,0,致使,,to cause,,,zhì shǐ
+vocab,,0,智力,,intelligence,,,zhì lì
+vocab,,0,智能,,intelligent,,,zhì néng
+vocab,,0,智商,,IQ (intelligence quotient),,,zhì shāng
+vocab,,0,滞留,,to detain,,,zhì liú
+vocab,,0,志气,,ambition,,,zhì qì
+vocab,,0,忠诚,,devoted,,,zhōng chéng
+vocab,,0,忠实,,faithful,,,zhōng shí
+vocab,,0,终点,,the end,,,zhōng diǎn
+vocab,,0,终究,,in the end,,,zhōng jiū
+vocab,,0,终年,,entire year,,,zhōng nián
+vocab,,0,终身,,lifelong,,,zhōng shēn
+vocab,,0,终止,,to stop,,,zhōng zhǐ
+vocab,,0,中断,,to cut short,,,zhōng duàn
+vocab,,0,中立,,neutral,,,zhōng lì
+vocab,,0,中央,,central,,,zhōng yāng
+vocab,,0,衷心,,heartfelt,,,zhōng xīn
+vocab,,0,种子,,seed,,,zhǒng zi
+vocab,,0,种族,,race,,,zhǒng zú
+vocab,,0,肿瘤,,tumor,,,zhǒng liú
+vocab,,0,重心,,center of gravity,,,zhòng xīn
+vocab,,0,众所周知,,see 眾所周知|众所周知[zhòng suǒ zhōu zhī],,,zhòng suǒ zhōu zhī
+vocab,,0,州,,prefecture,,,zhōu
+vocab,,0,舟,,boat,,,zhōu
+vocab,,0,粥,,congee,,,zhōu
+vocab,,0,周边,,periphery,,,zhōu biān
+vocab,,0,周密,,careful,,,zhōu mì
+vocab,,0,周年,,anniversary,,,zhōu nián
+vocab,,0,周期,,period,,,zhōu qī
+vocab,,0,周折,,complication,,,zhōu zhé
+vocab,,0,周转,,turnover (in cash or personnel),,,zhōu zhuǎn
+vocab,,0,皱纹,,wrinkle,,,zhòu wén
+vocab,,0,昼夜,,day and night,,,zhòu yè
+vocab,,0,株,,tree trunk,,,zhū
+vocab,,0,诸位,,(pron) everyone,,,zhū wèi
+vocab,,0,逐年,,year after year,,,zhú nián
+vocab,,0,拄,,to lean on,,,zhǔ
+vocab,,0,主办,,to organize,,,zhǔ bàn
+vocab,,0,主导,,to lead,,,zhǔ dǎo
+vocab,,0,主管,,in charge,,,zhǔ guǎn
+vocab,,0,主流,,main stream (of a river),,,zhǔ liú
+vocab,,0,主权,,sovereignty,,,zhǔ quán
+vocab,,0,主题,,theme,,,zhǔ tí
+vocab,,0,住宅,,residence,,,zhù zhái
+vocab,,0,注射,,injection,,,zhù shè
+vocab,,0,注视,,to watch attentively,,,zhù shì
+vocab,,0,注释,,marginal notes,,,zhù shì
+vocab,,0,注重,,to pay attention to,,,zhù zhòng
+vocab,,0,助理,,assistant,,,zhù lǐ
+vocab,,0,助手,,assistant,,,zhù shǒu
+vocab,,0,著作,,to write,,,zhù zuò
+vocab,,0,驻扎,,to station,,,zhù zhā
+vocab,,0,铸造,,to cast (pour metal into a mold),,,zhù zào
+vocab,,0,拽,,to pull,,,zhuài
+vocab,,0,专长,,specialty,,,zhuān cháng
+vocab,,0,专程,,special-purpose trip,,,zhuān chéng
+vocab,,0,专科,,specialized subject,,,zhuān kē
+vocab,,0,专利,,patent,,,zhuān lì
+vocab,,0,专题,,special topic,,,zhuān tí
+vocab,,0,砖瓦,,tiles and bricks,,,zhuān wǎ
+vocab,,0,转达,,to pass on,,,zhuǎn dá
+vocab,,0,转让,,transfer (technology,,,zhuǎn ràng
+vocab,,0,转移,,to shift,,,zhuǎn yí
+vocab,,0,转折,,shift in the trend of events,,,zhuǎn zhé
+vocab,,0,传记,,biography,,,zhuàn jì
+vocab,,0,装备,,equipment,,,zhuāng bèi
+vocab,,0,装卸,,to load or unload,,,zhuāng xiè
+vocab,,0,庄严,,stately,,,zhuāng yán
+vocab,,0,庄重,,grave,,,zhuāng zhòng
+vocab,,0,幢,,classifier for buildings,,,zhuàng
+vocab,,0,壮观,,spectacular,,,zhuàng guān
+vocab,,0,壮丽,,magnificence,,,zhuàng lì
+vocab,,0,壮烈,,brave,,,zhuàng liè
+vocab,,0,追悼,,to mourn,,,zhuī dào
+vocab,,0,追究,,to investigate,,,zhuī jiū
+vocab,,0,准则,,norm,,,zhǔn zé
+vocab,,0,琢磨,,to carve and polish (jade),,,zhuó mó
+vocab,,0,着手,,to put one's hand to it,,,zhuó shǒu
+vocab,,0,着想,,to give thought (to others),,,zhuó xiǎng
+vocab,,0,着重,,put emphasis on,,,zhuó zhòng
+vocab,,0,卓越,,outstanding,,,zhuó yuè
+vocab,,0,资本,,capital (economics),,,zī běn
+vocab,,0,资产,,property,,,zī chǎn
+vocab,,0,资深,,senior (in terms of depth of accumulated experience),,,zī shēn
+vocab,,0,资助,,to subsidize,,,zī zhù
+vocab,,0,姿态,,attitude,,,zī tài
+vocab,,0,滋味,,taste,,,zī wèi
+vocab,,0,滋长,,to grow (usually of abstract things),,,zī zhǎng
+vocab,,0,子弹,,bullet,,,zǐ dàn
+vocab,,0,字母,,letter (of the alphabet),,,zì mǔ
+vocab,,0,自卑,,feeling inferior,,,zì bēi
+vocab,,0,自发,,spontaneous,,,zì fā
+vocab,,0,自力更生,,regeneration through one's own effort (idiom),,,zì lì gēng shēng
+vocab,,0,自满,,complacent,,,zì mǎn
+vocab,,0,自主,,independent,,,zì zhǔ
+vocab,,0,踪迹,,tracks,,,zōng jì
+vocab,,0,宗旨,,objective,,,zōng zhǐ
+vocab,,0,棕色,,brown,,,zōng sè
+vocab,,0,总而言之,,in short,,,zǒng ér yán zhī
+vocab,,0,总和,,sum,,,zǒng hé
+vocab,,0,纵横,,lit. warp and weft in weaving; vertically and horizontal,,,zòng héng
+vocab,,0,走廊,,corridor,,,zǒu láng
+vocab,,0,走漏,,to leak (of information,,,zǒu lòu
+vocab,,0,走私,,to smuggle,,,zǒu sī
+vocab,,0,揍,,to beat up,,,zòu
+vocab,,0,租赁,,to rent,,,zū lìn
+vocab,,0,足以,,sufficient to...,,,zú yǐ
+vocab,,0,组,,to form,,,zǔ
+vocab,,0,阻碍,,to obstruct,,,zǔ ài
+vocab,,0,阻拦,,to stop,,,zǔ lán
+vocab,,0,阻挠,,to thwart,,,zǔ náo
+vocab,,0,祖父,,father's father,,,zǔ fù
+vocab,,0,钻研,,to study meticulously,,,zuān yán
+vocab,,0,钻石,,diamond,,,zuàn shí
+vocab,,0,嘴唇,,lip,,,zuǐ chún
+vocab,,0,尊严,,dignity,,,zūn yán
+vocab,,0,遵循,,to follow,,,zūn xún
+vocab,,0,左右,,left and right,,,zuǒ yòu
+vocab,,0,做东,,to act as host,,,zuò dōng
+vocab,,0,做主,,make the decision,,,zuò zhǔ
+vocab,,0,座右铭,,motto,,,zuò yòu míng
+vocab,,0,作弊,,to practice fraud,,,zuò bì
+vocab,,0,作废,,to become invalid,,,zuò fèi
+vocab,,0,作风,,style,,,zuò fēng
+vocab,,0,作息,,work and rest,,,zuò xī
