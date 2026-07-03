@@ -1,0 +1,151 @@
+Topic (Required),Topic Description (Optional),"Topic Type (Optional: 0=vocab,1=grammar,2=phrases,3=script,4=misc)",Native Text (Required),Native Context Line (Optional),Translation Text (Required),Translation Context Line (Optional),Translation Hint (Optional),Pronunciation Override (Optional)
+vocab,,0,吧,,(modal particle indicating suggestion or surmise),,,ba
+vocab,,0,白,,white,,,bái
+vocab,,0,百,,hundred,,,bǎi
+vocab,,0,帮助,,assistance,,,bāng zhù
+vocab,,0,报纸,,newspaper,,,bào zhǐ
+vocab,,0,比,,(particle used for comparison and '-er than'),,,bǐ
+vocab,,0,别,,to leave,,,bié
+vocab,,0,长,,length,,,cháng
+vocab,,0,唱歌,,to sing a song,,,chàng gē
+vocab,,0,出,,to go out,,,chū
+vocab,,0,穿,,to bore through,,,chuān
+vocab,,0,船,,a boat,,,chuán
+vocab,,0,次,,next in sequence,,,cì
+vocab,,0,从,,from,,,cóng
+vocab,,0,错,,mistake,,,cuò
+vocab,,0,打篮球,,Play basketball,,,dá lán qiú
+vocab,,0,大家,,everyone,,,dà jiā
+vocab,,0,但是,,but,,,dàn shì
+vocab,,0,到,,to (a place),,,dào
+vocab,,0,得,,structural particle: used after a verb (or adjective as main verb),,,de
+vocab,,0,得,,to have to,,,děi
+vocab,,0,弟弟,,younger brother,,,dì di
+vocab,,0,第一,,first,,,dì yī
+vocab,,0,懂,,to understand,,,dǒng
+vocab,,0,房间,,room,,,fáng jiān
+vocab,,0,非常,,unusual,,,fēi cháng
+vocab,,0,服务员,,waiter,,,fú wù yuán
+vocab,,0,高,,high,,,gāo
+vocab,,0,告诉,,to tell,,,gào su
+vocab,,0,哥哥,,older brother,,,gē ge
+vocab,,0,给,,to,,,gěi
+vocab,,0,公共汽车,,bus,,,gōng gòng qì chē
+vocab,,0,公斤,,kilogram (kg),,,gōng jīn
+vocab,,0,公司,,(business) company,,,gōng sī
+vocab,,0,贵,,expensive,,,guì
+vocab,,0,还,,still,,,hái
+vocab,,0,孩子,,child,,,hái zi
+vocab,,0,好吃,,tasty,,,hǎo chī
+vocab,,0,号,,ordinal number,,,hào
+vocab,,0,黑,,black,,,hēi
+vocab,,0,红,,red,,,hóng
+vocab,,0,欢迎,,to welcome,,,huān yíng
+vocab,,0,还,,to pay back,,,huán
+vocab,,0,回答,,to reply,,,huí dá
+vocab,,0,机场,,airport,,,jī chǎng
+vocab,,0,鸡蛋,,(chicken) egg,,,jī dàn
+vocab,,0,件,,item,,,jiàn
+vocab,,0,教室,,classroom,,,jiào shì
+vocab,,0,姐姐,,older sister,,,jiě jie
+vocab,,0,介绍,,to introduce (sb to sb),,,jiè shào
+vocab,,0,进,,to advance,,,jìn
+vocab,,0,近,,near,,,jìn
+vocab,,0,就,,at once,,,jiù
+vocab,,0,觉得,,to think,,,jué de
+vocab,,0,咖啡,,coffee,,,kā fēi
+vocab,,0,开始,,to begin,,,kāi shǐ
+vocab,,0,考试,,to take an exam,,,kǎo shì
+vocab,,0,可能,,might (happen),,,kě néng
+vocab,,0,可以,,can,,,kě yǐ
+vocab,,0,课,,subject,,,kè
+vocab,,0,快,,rapid,,,kuài
+vocab,,0,快乐,,happy,,,kuài lè
+vocab,,0,累,,tired,,,lèi
+vocab,,0,离,,to leave,,,lí
+vocab,,0,两,,both,,,liǎng
+vocab,,0,路,,road,,,lù
+vocab,,0,旅游,,trip,,,lǚ yóu
+vocab,,0,卖,,to sell,,,mài
+vocab,,0,慢,,slow,,,màn
+vocab,,0,忙,,busy,,,máng
+vocab,,0,每,,each,,,měi
+vocab,,0,妹妹,,younger sister,,,mèi mei
+vocab,,0,门,,gate,,,mén
+vocab,,0,男人,,a man,,,nán rén
+vocab,,0,您,,you (courteous,,,nín
+vocab,,0,牛奶,,cow's milk,,,niú nǎi
+vocab,,0,女人,,woman,,,nǚ rén
+vocab,,0,旁边,,lateral,,,páng biān
+vocab,,0,跑步,,to walk quickly,,,pǎo bù
+vocab,,0,便宜,,small advantages,,,pián yi
+vocab,,0,票,,ticket,,,piào
+vocab,,0,妻子,,wife,,,qī zi
+vocab,,0,起床,,to get out of bed,,,qǐ chuáng
+vocab,,0,千,,a swing,,,qiān
+vocab,,0,晴,,clear,,,qíng
+vocab,,0,去年,,last year,,,qù nián
+vocab,,0,让,,to yield,,,ràng
+vocab,,0,上班,,to go to work,,,shàng bān
+vocab,,0,身体,,(human) body,,,shēn tǐ
+vocab,,0,生病,,to fall ill,,,shēng bìng
+vocab,,0,生日,,birthday,,,shēng rì
+vocab,,0,时间,,time,,,shí jiān
+vocab,,0,事情,,affair,,,shì qing
+vocab,,0,手表,,wrist watch,,,shǒu biǎo
+vocab,,0,手机,,cell phone,,,shǒu jī
+vocab,,0,送,,to deliver,,,sòng
+vocab,,0,所以,,therefore,,,suǒ yǐ
+vocab,,0,它,,it,,,tā
+vocab,,0,踢,,to kick,,,tī
+vocab,,0,题,,topic,,,tí
+vocab,,0,跳舞,,to dance,,,tiào wǔ
+vocab,,0,外,,outside,,,wài
+vocab,,0,完,,to finish,,,wán
+vocab,,0,玩,,toy,,,wán
+vocab,,0,晚上,,evening,,,wǎn shang
+vocab,,0,为,,variant of 為|为,,,wèi
+vocab,,0,问,,to ask,,,wèn
+vocab,,0,问题,,question,,,wèn tí
+vocab,,0,西瓜,,watermelon,,,xī guā
+vocab,,0,希望,,to wish for,,,xī wàng
+vocab,,0,洗,,to wash,,,xǐ
+vocab,,0,向,,towards,,,xiàng
+vocab,,0,小时,,hour,,,xiǎo shí
+vocab,,0,笑,,laugh,,,xiào
+vocab,,0,新,,new,,,xīn
+vocab,,0,姓,,family name,,,xìng
+vocab,,0,休息,,rest,,,xiū xi
+vocab,,0,雪,,snow,,,xuě
+vocab,,0,颜色,,color,,,yán sè
+vocab,,0,眼睛,,eye,,,yǎn jing
+vocab,,0,羊肉,,mutton,,,yáng ròu
+vocab,,0,药,,medicine,,,yào
+vocab,,0,要,,important,,,yào
+vocab,,0,也,,also,,,yě
+vocab,,0,已经,,already,,,yǐ jīng
+vocab,,0,一起,,in the same place,,,yī qǐ
+vocab,,0,意思,,idea,,,yì si
+vocab,,0,阴,,overcast (weather),,,yīn
+vocab,,0,因为,,because,,,yīn wèi
+vocab,,0,游泳,,swimming,,,yóu yǒng
+vocab,,0,右边,,right side,,,yòu bian
+vocab,,0,鱼,,fish,,,yú
+vocab,,0,元,,Chinese monetary unit,,,yuán
+vocab,,0,远,,far,,,yuǎn
+vocab,,0,运动,,to move,,,yùn dòng
+vocab,,0,再,,again,,,zài
+vocab,,0,早上,,early morning,,,zǎo shang
+vocab,,0,张,,to open up,,,zhāng
+vocab,,0,长,,chief,,,zhǎng
+vocab,,0,丈夫,,husband,,,zhàng fu
+vocab,,0,找,,to try to find,,,zhǎo
+vocab,,0,着,,aspect particle indicating action in progress,,,zhe
+vocab,,0,真,,really,,,zhēn
+vocab,,0,正在,,in the process of (doing something or happening),,,zhèng zài
+vocab,,0,知道,,to know,,,zhī dào
+vocab,,0,准备,,preparation,,,zhǔn bèi
+vocab,,0,自行车,,bicycle,,,zì xíng chē
+vocab,,0,走,,to walk,,,zǒu
+vocab,,0,最,,most,,,zuì
+vocab,,0,左边,,left,,,zuǒ bian
